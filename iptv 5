@@ -1,10 +1,73 @@
-#EXTINF:-1, tvg-logo="" group-title="French TV", CTV MTL HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=26
-#EXTINF:-1, tvg-logo="" group-title="French TV", CBC MTL HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=27
-#EXTINF:-1, tvg-logo="" group-title="French TV", SRC QC HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=28
-#EXTINF:-1, tvg-logo="" group-title="French TV", TELE QUEBEC HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=29
-#EXTINF:-1, tvg-logo="" group-title="French TV", MUSIQUE PLUS HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=30
+#EXTINF:-1, tvg-id="2" tvg-name="HBO East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=300
+
+#EXTINF:-1, tvg-id="2" tvg-name="HBO Signature East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Signature East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=302
+
+#EXTINF:-1, tvg-id="2" tvg-name="HBO Comedy East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Comedy East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=307
+
+#EXTINF:-1, tvg-id="2" tvg-name="Starz East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=350
+
+#EXTINF:-1, tvg-id="2" tvg-name="Starz Edge East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Edge East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=352
+
+#EXTINF:-1, tvg-id="2" tvg-name="Starz Comedy East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Comedy East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=354
+
+#EXTINF:-1, tvg-id="2" tvg-name="Starz In Black East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz In Black East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=355
+
+#EXTINF:-1, tvg-id="2" tvg-name="Starz Kids and Family East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Kids and Family East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=356
+
+
+#EXTINF:-1, tvg-id="2" tvg-name="ActionMax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", ActionMax
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=313
+
+#EXTINF:-1, tvg-id="2" tvg-name="5 StarMax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", 5 StarMax
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=314
+
+#EXTINF:-1, tvg-id="2" tvg-name="ThrillerMax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", ThrillerMax
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=315
+
+#EXTINF:-1, tvg-id="2" tvg-name="Showtime" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Showtime
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=318
+
+#EXTINF:-1, tvg-id="2" tvg-name="Action Movies HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Action Movies HD 
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=320
+
+
+#EXTINF:-1, tvg-id="2" tvg-name="HBO Latinoamerica" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Latinoamerica
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=309
+
+#EXTINF:-1, tvg-id="2" tvg-name="Moremax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Moremax
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=312
+
+
+#EXTINF:-1, tvg-id="2" tvg-name="The Movie Channel East" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", The Movie Channel East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=327
+
+
+
+#EXTINF:-1, tvg-id="2" tvg-name="Cinemax East" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/250px-Cinemax_(Yellow).svg.png" group-title="TOP MOVIES TV", Cinemax East 
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=310
+
+#EXTINF:-1, tvg-id="2" tvg-name="SKY Premiere" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY Premiere
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=530
+
+#EXTINF:-1, tvg-id="2" tvg-name="SKY Comedy" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY Comedy
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=528
+
+#EXTINF:-1, tvg-id="2" tvg-name="SKY Select" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY Select
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=533
+
+#EXTINF:-1, tvg-id="2" tvg-name="Sundance HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Sundance HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=166
+
+#EXTINF:-1, tvg-id="2" tvg-name="Lifetime" tvg-logo="nowwatchtvlive.co/wp-content/uploads/2011/07/LMN-hd-logo.jpeg" group-title="TOP MOVIES TV", Lifetime
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=109
+
+#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FXX
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&c
