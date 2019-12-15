@@ -1,2 +1,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="",Knowledge Network
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1,NBC (East)
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1,US:CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
