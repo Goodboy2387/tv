@@ -230,8 +230,9 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:0,HBO HD
 #EXTVLCOPT:file-caching=1300
 http://203.207.56.228/live/iptv005.m3u8
-#EXTINF:0,WWE Network
+#EXTINF:0,Sony Ten1 HD
 #EXTVLCOPT:file-caching=1300
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
-#EXTINF:0, [USA]---DW
-http://94.140.208.90:37915/udp/239.195.0.51:1234
+
+#EXTINF:-1,CW Boston (WHDH) (Opt-2)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
