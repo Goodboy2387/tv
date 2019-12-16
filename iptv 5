@@ -170,3 +170,17 @@ http://213.252.252.17/live/eds/BBC/HLS_encr/index.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0, Al Jazeera HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (SD)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (HD)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nWjAjzy.png" group-title="USA",Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="USA",Kartoon Fun Time (Opt-2)
+https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
+#EXTINF:-1,ICI Télé
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
+#EXTINF:-1,CBC TV (Montreal)
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
