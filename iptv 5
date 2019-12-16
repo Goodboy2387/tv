@@ -232,3 +232,5 @@ http://203.207.56.228/live/iptv005.m3u8
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:0, [USA]---DW
 http://94.140.208.90:37915/udp/239.195.0.51:1234
+#EXTINF:-1,alliptvlinks.com CA HD: CHCH
+http://interlatins.com:48000/202020/202020/2392
