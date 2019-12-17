@@ -257,7 +257,8 @@ http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/pl
 https://live-cdn.pbskids.org/out/u/est.m3u8
 #EXTINF:-1 tvg-id="USTV" tvg-name="AMC.us" tvg-logo="http://images.amcnetworks.com/amc.com/wp-content/uploads/2016/09/AMC_Black_Hero_Logo-1200x707.jpg" group-title="USA TV", AMC HD 
 #EXTINF:-1 tvg-id="" tvg-name="Charge (Geo)" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/charge-jpg_orig.jpg" group-title="USA TV",Charge [GEO]
-
+#EXTINF:-1 tvg-id="" tvg-name="TBD" tvg-logo="http://sbgi.net/wp-content/uploads/2017/02/TBD-logo.png" group-title="USA TV", TBD HD 
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 tvg-id="" tvg-name="Comet (Geo)" tvg-logo="https://3.bp.blogspot.com/-b6RzDxCx5AI/WNVWn7TVSdI/AAAAAAAASZk/QHQ5QJEG_mIDsFEVVEpYIQcmedefxY1twCLcB/s640/cometmarch.png" group-title="USA TV",Comet [GEO]
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="USTV" tvg-name="Hallmark.us" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/hallmark-1-jpg-1_orig.jpg" group-title="USA TV", Hallmark Channel HD 
