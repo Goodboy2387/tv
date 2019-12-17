@@ -249,3 +249,5 @@ http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="702" tvg-logo="https://i.imgur.com/bkikN6d.png" group-title="USA",Apple Sauce Network
 https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,BeBlack Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
