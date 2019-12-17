@@ -265,3 +265,5 @@ https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a
 http://crownmediaingest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3053211897~acl=/*~hmac=4f866e42c1c949ed813463f45310c7b32bd8c212efdba1e5b3f2a97ff5b2e895
 #EXTINF:-1 tvg-id="USTV" tvg-name="Hallmark& Mysterious.us" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/hallmark-movies-26mysteries-jpg_orig.jpg" group-title="USA TV", Hallmark Movies & Mysterious HD
 http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053211897~acl=/*~hmac=4f866e42c1c949ed813463f45310c7b32bd8c212efdba1e5b3f2a97ff5b2e895
+#EXTINF:-1 tvg-id="" tvg-name="Charge (Geo)" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/charge-jpg_orig.jpg" group-title="USA TV",Charge [GEO]
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828
