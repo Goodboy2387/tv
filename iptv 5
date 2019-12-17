@@ -239,3 +239,9 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
 #EXTINF:-1,AD SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,DW English
+http://43.224.120.99:8080/dwenglish.m3u8
+#EXTINF:-1,CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1,ET LIVE
+http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
