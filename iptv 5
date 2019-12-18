@@ -174,8 +174,8 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (HD)
 https://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nWjAjzy.png" group-title="USA",Cheddar
-https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1 tvg-id="News" tvg-name="Cheddar" tvg-logo="https://www.tvnewsinsider.com/wp-content/uploads/2017/07/cheddar-logo-800x440.png" group-title="USA TV", Cheddar HD {Main}
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="USA",Kartoon Fun Time 
@@ -267,3 +267,11 @@ http://crownmediaingest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3
 http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053211897~acl=/*~hmac=4f866e42c1c949ed813463f45310c7b32bd8c212efdba1e5b3f2a97ff5b2e895
 #EXTINF:-1 tvg-id="" tvg-name="Charge (Geo)" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/charge-jpg_orig.jpg" group-title="USA TV",Charge [GEO]
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828
+#EXTINF:-1 tvg-id="USTV" tvg-name="Cheddar Big News" tvg-logo="http://1hdlxe1oe0ll1eghud24le5v.wpengine.netdna-cdn.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-17-at-5.38.40-PM-300x272.png" group-title="USA TV",Cheddar Big News HD {Main}
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1 tvg-id="USTV" tvg-name="TCT.us" tvg-logo="https://tr.live-tv-channels.net/pt-data/uploads/logo/us-tct-la-fuente.jpg" group-title="Christian TV", TCT HD
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHDHLS/TCTHDHLS_Live_2200.m3u8
+#EXTINF:-1 tvg-id="USTV" tvg-name="TCT.us" tvg-logo="https://i.pinimg.com/736x/df/d1/94/dfd194a929de3f2eb7be4f1d21e1c7f0.jpg" group-title="Christian TV", TCT Kids 
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANADA",Space
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
