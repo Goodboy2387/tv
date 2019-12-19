@@ -165,8 +165,8 @@ https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
 #EXTINF:0, Adult Swim williams stream USA
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:0, BBC
-http://213.252.252.17/live/eds/BBC/HLS_encr/index.m3u8
-#EXTINF:-1,France 24 (english)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" , France24 
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0, Al Jazeera HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
@@ -275,3 +275,5 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHDHLS/TCTHDH
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANADA",Space
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLpyQsV.png" , TRT World 
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
