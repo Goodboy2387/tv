@@ -278,7 +278,7 @@ http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PLpyQsV.png" , TRT World 
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:0,Channel CH
-http://tv2iptv.com:8000/Janel/janel123/25353
+https://flowcaster1-cl.cdn.clearcable.net/CHCH/smil:CHCH.smil/playlist.m3u8?iimae0UC2aendtime=1577068220&iimae0UC2ahash=IVoUm33adxAZ6V96iOwAFxv1-KzHp5nK9S5a_szmrdM=
 #EXTINF:0,Channel A&E
 http://tv2iptv.com:8000/Janel/janel123/25384
 #EXTINF:0,Channel Teletoon
