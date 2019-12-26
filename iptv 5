@@ -418,6 +418,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
 #EXTINF:-1 tvg-id="" tvg-name="CA TREE HOUSE" tvg-logo="" group-title="CANADIAN TV",CA TREE HOUSE
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
 #EXTINF:-1 tvg-id="TLC.ca" tvg-name="CA-TLC CANADA" tvg-logo="http://212.8.253.112/logo/USA/TLCHD.png" group-title="AM | CANADA",CA-TLC CANADA
+<channel update="i" site="tvhebdo.com" site_id="tlc/TLC" xmltv_id="TLC">TLC</channel>
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/628
 #EXTINF:-1 tvg-id="TV5.ca" tvg-name="CAF- TV5 QUEBEC" tvg-logo="http://212.8.253.112/logo/CANADA/TV5QUEBEC.png" group-title="AM | CANADA FR",CAF- TV5 QUEBEC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
