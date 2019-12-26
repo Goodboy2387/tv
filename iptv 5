@@ -321,7 +321,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
 #EXTINF:-1 tvg-id="CBSSports.ca" tvg-name="CA-CBS EAST" tvg-logo="http://212.8.253.112/logo/CANADA/CBSEAST.png" group-title="AM | CANADA",CA-CBS EAST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
-#EXTINF:0,Channel CTV OTTAWA
+#EXTINF:-1 tvg-id="CTV2Ottawa.ca" tvg-name="CA-CTV2 OTTAWA" tvg-logo="http://212.8.253.112/logo/CANADA/CTV2OTTAWA.png" group-title="AM | CANADA",CA-CTV2 OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/697
 #EXTINF:0,Channel CTV2 OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/696
