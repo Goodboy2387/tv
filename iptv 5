@@ -315,7 +315,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
-#EXTINF:0,Channel CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA-CRIME   INVEST" tvg-logo="http://212.8.253.112/logo/CANADA/CRIMEINVEST.png" group-title="AM | CANADA",CA-CRIME   INVEST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
 #EXTINF:-1 tvg-id="ComedyGold.ca" tvg-name="CA-COMEDY EAST" tvg-logo="http://212.8.253.112/logo/CANADA/COMEDYEAST.png" group-title="AM | CANADA",CA-COMEDY EAST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
@@ -329,11 +329,11 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/696
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/695
 #EXTINF:-1 tvg-logo="http://www.daystar.com/wp-content/uploads/daystar-logo-1.png" group-title="USA/Canada",Daystar TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/694
-#EXTINF:0,Channel Discovery Channel Canada
+#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA-DISCOVERY CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/DISCOVERYCANADA.png" group-title="AM | CANADA",CA-DISCOVERY CANADA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
 #EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="CA-DISCOVERY SCIENCE CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/DISCOVERYSCIENCECANADA.png" group-title="AM | CANADA",CA-DISCOVERY SCIENCE CANADA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
-#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA-DISCOVERY CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/DISCOVERYCANADA.png" group-title="AM | CANADA",CA-DISCOVERY CANADA
+#EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="CA-DISNEY CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/DISNEYCANADA.png" group-title="AM | CANADA",CA-DISNEY CANADA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/691
 #EXTINF:-1 tvg-id="" tvg-name="CA | DOCUMENTARY" tvg-logo="" group-title="other",CA | DOCUMENTARY
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/688
@@ -450,7 +450,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA-AMC" tvg-logo="http://212.8.253.112/logo/CANADA/AMC.png" group-title="AM | CANADA",CA-AMC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
-#EXTINF:-1 tvg-id="" tvg-name="CA|| CNBC World HD" tvg-logo="" group-title="other",CA|| CNBC World HD
+#EXTINF:-1 tvg-id="MSNBC.ca" tvg-name="CA-CNBC" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/CNBC.png" group-title="AM | CANADA",CA-CNBC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/571
 #EXTINF:-1 tvg-id="Global.ca" tvg-name="CA-GLOBAL VANCOUVER" tvg-logo="http://212.8.253.112/logo/CANADA/GLOBALVANCOUVER.png" group-title="AM | CANADA",CA-GLOBAL VANCOUVER
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/578
