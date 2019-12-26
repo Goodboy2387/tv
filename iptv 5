@@ -313,7 +313,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
 #EXTINF:0,Channel Abc Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
-#EXTINF:0,Channel CTV News Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
 #EXTINF:0,Channel CRIME INVESTIGATION
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
