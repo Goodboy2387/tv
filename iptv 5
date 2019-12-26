@@ -337,7 +337,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/691
 #EXTINF:-1 tvg-ID="" tvg-name="Canada: DOCUMENTARY" tvg-logo="" group-title="CANADA",Canada: DOCUMENTARY
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/688
-#EXTINF:-1 tvg-ID="" tvg-name="Canada: E! CANADA" tvg-logo="" group-title="CANADA",Canada: E! CANADA
+#EXTINF:-1, tvg-id="295.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/E%21CANADA.png" tvg-name="E! Canada"  group-title="Canada",E! Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/687
 #EXTINF:-1 tvg-id="" tvg-name="CA-FAMILY EAST" tvg-logo="http://212.8.253.112/logo/CANADA/FAMILYEAST.png" group-title="AM | CANADA",CA-FAMILY EAST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/684
