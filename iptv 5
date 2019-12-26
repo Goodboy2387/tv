@@ -367,6 +367,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
 #EXTINF:-1 tvg-id="" tvg-name="CA-ID CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/IDCANADA.png" group-title="AM | CANADA",CA-ID CANADA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
 #EXTINF:-1, tvg-id="1148.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/LIFETIME.png" tvg-name="Lifetime TV - Canada"  group-title="Canada",Lifetime TV - Canada
+<channel update="i" site="bellfibetv" site_id="I81202.labs.zap2it.com" xmltv_id="ch108">Lifetime TV Canada</channel>
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/663
 #EXTINF:-1 tvg-id="" tvg-name="CA-ENCORE 1 EAST" tvg-logo="http://212.8.253.112/logo/CANADA/ENCORE1EAST.png" group-title="AM | CANADA",CA-ENCORE 1 EAST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
