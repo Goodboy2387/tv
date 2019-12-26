@@ -293,7 +293,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/669
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
 #EXTINF:-1 tvg-id="" tvg-name="CA | CMT  HD" tvg-logo="" group-title="other",CA | CMT  HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
-#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="ExYu-Dokumentarni",ANIMAL PLANET HD
+#EXTINF:-1, tvg-id="472.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ANIMALPLANET.png" tvg-name="Animal Planet Canada"  group-title="Canada",Animal Planet Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
 #EXTINF:0,Channel Adult Swim
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
@@ -301,7 +301,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
 #EXTINF:-1 tvg-ID="" tvg-name="Canada: BBC CANADA" tvg-logo="" group-title="CANADA",Canada: BBC CANADA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
-#EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="CA-ABC EAST" tvg-logo="http://212.8.253.112/logo/CANADA/ABCEAST.png" group-title="AM | CANADA",CA-ABC EAST
+#EXTINF:-1, tvg-id="10281.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCSPARKCANADA.png" tvg-name="ABC Spark"  group-title="Canada",ABC Spark
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
 #EXTINF:0,Channel HBO Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
@@ -311,7 +311,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
 #EXTINF:-1 tvg-id="" tvg-name="CA-THE WEATHER NETWORK" tvg-logo="http://212.8.253.112/logo/CANADA/THEWEATHERNETWORK.png" group-title="AM | CANADA",CA-THE WEATHER NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
-#EXTINF:-1 tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/kabc/images/logos/default_800x450.jpg" group-title="ABC Regional(USA)",ABC
+#EXTINF:-1, tvg-id="181.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCWEST.png" tvg-name="ABC (KOMO) Seattle WA"  group-title="Canada",ABC (KOMO) Seattle WA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
