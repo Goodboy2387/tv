@@ -311,7 +311,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
 #EXTINF:0,Channel Weather Network Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
-#EXTINF:0,Channel Abc Canada
+#EXTINF:-1 tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/kabc/images/logos/default_800x450.jpg" group-title="ABC Regional(USA)",ABC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
@@ -325,9 +325,9 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/697
 #EXTINF:0,Channel CTV2 OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/696
-#EXTINF:0,Channel CW 11 Canada
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="CW Regional(USA)", CW11
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/695
-#EXTINF:0,Channel Daystar tv Canada
+#EXTINF:-1 tvg-logo="http://www.daystar.com/wp-content/uploads/daystar-logo-1.png" group-title="USA/Canada",Daystar TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/694
 #EXTINF:0,Channel Discovery Channel Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
@@ -347,7 +347,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/683
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
 #EXTINF:0,Channel Food Network ca
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/681
-#EXTINF:0,Channel Fox East ca
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/dnkccm.jpg" group-title="USA/Canada",Fox News 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
 #EXTINF:0,Channel Fox News
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/679
@@ -357,7 +357,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/676
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
 #EXTINF:0,Channel Golf TV Ca
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/673
-#EXTINF:0,Channel HBO2 Ca
+#EXTINF:-1 tvg-id="I502.59368.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-
 #EXTINhttp://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671F:0,Channel
 #EXTINF:0,Channel HGTV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
@@ -389,7 +389,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
 #EXTINF:0,Channel NBC West Ca
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/651
-#EXTINF:0,Channel NTV Ca
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2pCmTWZ.png" group-title="",NTV (CJON-DT
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
 #EXTINF:0,Channel OLN Ca
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
