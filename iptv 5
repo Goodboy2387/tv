@@ -287,17 +287,17 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
 #EXTINF:-1 tvg-id="Bravo.ca" tvg-name="CA-BRAVO" tvg-logo="http://212.8.253.112/logo/CANADA/BRAVO.png" group-title="AM | CANADA",CA-BRAVO
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/717
-#EXTINF:0,Channel History HD
+#EXTINF:-1 tvg-id="" tvg-name="CA | HISTORY" tvg-logo="" group-title="other",CA | HISTORY
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/669
 #EXTINF:-1 tvg-id="" tvg-name="CA-TELE TOON EAST" tvg-logo="http://212.8.253.112/logo/CANADA/TELETOONEAST.png" group-title="AM | CANADA",CA-TELE TOON EAST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
-#EXTINF:0,Channel CMT
+#EXTINF:-1 tvg-id="" tvg-name="CA | CMT  HD" tvg-logo="" group-title="other",CA | CMT  HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
-#EXTINF:0,Channel Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="CA | ANIMAL PLANET" tvg-logo="" group-title="other",CA | ANIMAL PLANET
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
 #EXTINF:0,Channel Adult Swim
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
-#EXTINF:-1 tvg-id="" tvg-name="CA-AHC" tvg-logo="http://212.8.253.112/logo/CANADA/AMC.png" group-title="AM | CANADA",CA-AHC
+#EXTINF:-1 tvg-id="" tvg-name="CA | AHC" tvg-logo="" group-title="other",CA | AHC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
 #EXTINF:0,Channel BBC Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
@@ -335,7 +335,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
 #EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA-DISCOVERY CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/DISCOVERYCANADA.png" group-title="AM | CANADA",CA-DISCOVERY CANADA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/691
-#EXTINF:0,Channel Documentary Channel Canada
+#EXTINF:-1 tvg-id="" tvg-name="CA | DOCUMENTARY" tvg-logo="" group-title="other",CA | DOCUMENTARY
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/688
 #EXTINF:0,Channel  E! Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/687
@@ -363,11 +363,11 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/673
 #EXTINhttp://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671F:0,Channel
 #EXTINF:-1 tvg-id="" tvg-name="CA-VIP HGTV HD" tvg-logo="http://212.8.253.112/logo/CANADA/HGTV.png" group-title="AM | CANADA",CA-VIP HGTV HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
-#EXTINF:-1 tvg-id="" tvg-name="CA-VIP HISTORY HD" tvg-logo="http://212.8.253.112/logo/CANADA/HISTORY.png" group-title="AM | CANADA",CA-VIP HISTORY HD
+#EXTINF:-1 tvg-id="HistoryChannel.ca" tvg-name="History Channel" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/history-jpg_orig.jpg" group-title="Canada TV", History Channel
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
 #EXTINF:-1 tvg-id="" tvg-name="CA-ID CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/IDCANADA.png" group-title="AM | CANADA",CA-ID CANADA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
-#EXTINF:0,Channel Lifetime Ca
+#EXTINF:-1 tvg-id="" tvg-name="CA|| LIFETIME" tvg-logo="" group-title="other",CA|| LIFETIME
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/663
 #EXTINF:-1 tvg-id="" tvg-name="CA-ENCORE 1 EAST" tvg-logo="http://212.8.253.112/logo/CANADA/ENCORE1EAST.png" group-title="AM | CANADA",CA-ENCORE 1 EAST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
@@ -375,9 +375,9 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/685
 #EXTINF:-1 tvg-id="MAX.ca" tvg-name="CAF- MAX" tvg-logo="http://212.8.253.112/logo/CANADA/MAX.png" group-title="AM | CANADA FR",CAF- MAX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
-#EXTINF:0,Channel MBL Network Ca
+#EXTINF:-1 tvg-id="" tvg-name="CA | MLB NETWORK" tvg-logo="" group-title="other",CA | MLB NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/660
-#EXTINF:0,Channel MOI ICI Ca
+#EXTINF:-1 tvg-id="" tvg-name="CA | MOI CIE" tvg-logo="" group-title="other",CA | MOI ICI
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
 #EXTINF:-1 tvg-id="" tvg-name="CA MOVIE TIME" tvg-logo="" group-title="CANADIAN TV",CA MOVIE TIME
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
@@ -397,13 +397,13 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
 #EXTINF:-1 tvg-id="" tvg-name="CA-OWN" tvg-logo="http://212.8.253.112/logo/CANADA/OWN.png" group-title="AM | CANADA",CA-OWN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
-#EXTINF:0,Channel RDI Ca
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDS" tvg-logo="" group-title="other",CA | RDS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
-#EXTINF:0,Channel RDS CA
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDS INFO" tvg-logo="" group-title="other",CA | RDS INFO
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
-#EXTINF:0,Channel RDS2 Ca
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDS 2" tvg-logo="" group-title="other",CA | RDS 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
-#EXTINF:-1 tvg-id="" tvg-name="CA SPIKE" tvg-logo="" group-title="CANADIAN TV",CA SPIKE
+#EXTINF:-1 tvg-id="" tvg-name="CA | SPIKE TV USA" tvg-logo="" group-title="other",CA | SPIKE TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/637
 #EXTINF:-1 tvg-id="" tvg-name="CA-SPORTSNET EAST" tvg-logo="http://212.8.253.112/logo/CANADA/SPORTSNETEAST.png" group-title="AM | CANADA",CA-SPORTSNET EAST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
@@ -450,7 +450,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA-AMC" tvg-logo="http://212.8.253.112/logo/CANADA/AMC.png" group-title="AM | CANADA",CA-AMC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
-#EXTINF:0,Channel CNBC Ca
+#EXTINF:-1 tvg-id="" tvg-name="CA|| CNBC World HD" tvg-logo="" group-title="other",CA|| CNBC World HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/571
 #EXTINF:-1 tvg-id="Global.ca" tvg-name="CA-GLOBAL VANCOUVER" tvg-logo="http://212.8.253.112/logo/CANADA/GLOBALVANCOUVER.png" group-title="AM | CANADA",CA-GLOBAL VANCOUVER
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/578
