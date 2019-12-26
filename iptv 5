@@ -445,7 +445,22 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/749
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
 #EXTINF:0,Channel YTV Ca
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
-
+#EXTINF:0,Channel AMC Ca
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
+#EXTINF:0,Channel CNBC Ca
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/571
+#EXTINF:0,Channel Global Vancouver
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/578
+#EXTINF:0,Channel TSN HD 1
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/554
+#EXTINF:0,Channel TSN HD 2
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
+#EXTINF:0,Channel TSN HD 3
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
+#EXTINF:0,Channel TSN HD 4
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
+#EXTINF:0,Channel TSN HD 5
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
 
 
 
