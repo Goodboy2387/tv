@@ -417,8 +417,10 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
 #EXTINF:-1 tvg-id="" tvg-name="CA TREE HOUSE" tvg-logo="" group-title="CANADIAN TV",CA TREE HOUSE
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
-#EXTINF:-1 tvg-id="TLC.ca" tvg-name="CA-TLC CANADA" tvg-logo="http://212.8.253.112/logo/USA/TLCHD.png" group-title="AM | CANADA",CA-TLC CANADA
 
+#EXTINF:-1, tvg-id="133.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCEAST.png" tvg-name="ABC (WCVB) Boston MA"  group-title="Canada",ABC (WCVB) Boston MA
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
+#EXTINF:-1 tvg-id="TLC.ca" tvg-name="CA-TLC CANADA" tvg-logo="http://212.8.253.112/logo/USA/TLCHD.png" group-title="AM | CANADA",CA-TLC CANADA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/628
 #EXTINF:-1 tvg-id="TV5.ca" tvg-name="CAF- TV5 QUEBEC" tvg-logo="http://212.8.253.112/logo/CANADA/TV5QUEBEC.png" group-title="AM | CANADA FR",CAF- TV5 QUEBEC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
