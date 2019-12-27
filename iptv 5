@@ -297,7 +297,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
 #EXTINF:0,Channel Adult Swim
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
-#EXTINF:-1 tvg-ID="" tvg-name="CA: AHC local" tvg-logo="" group-title="Canada",CA: AHC
+#EXTINF:-1 tvg-ID="" tvg-name="CA: tvg-Logo=AHC.pgn"tvg-name="AHC CA 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
 #EXTINF:-1, tvg-id="415.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/BBCCANADA.png" tvg-name="BBC Canada East"  group-title="Canada",BBC Canada East
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
