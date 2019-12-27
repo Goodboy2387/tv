@@ -235,7 +235,7 @@ http://203.207.56.228/live/iptv005.m3u8
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1, HDFashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
-#EXTINF:-1,CW Boston (WHDH) (Opt-2)
+#EXTINF:-1,CW Boston (WHDH) CW
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
 #EXTINF:-1,AD SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
@@ -291,13 +291,13 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/717
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/669
 #EXTINF:-1 tvg-id="" tvg-name="CA-TELE TOON EAST" tvg-logo="http://212.8.253.112/logo/CANADA/TELETOONEAST.png" group-title="AM | CANADA",CA-TELE TOON EAST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
-#EXTINF:-1 tvg-id="" tvg-name="CA | CMT  HD" tvg-logo="" group-title="other",CA | CMT  HD
+#EXTINF:-1 tvg-id="CMT.ca" tvg-name="CA-CMT CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/CMTCANADA.png" group-title="AM | CANADA",CA-CMT CANADA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
 #EXTINF:-1, tvg-id="472.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ANIMALPLANET.png" tvg-name="Animal Planet Canada"  group-title="Canada",Animal Planet Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
-#EXTINF:0,Channel Adult Swim
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",[B][COLOR blue]~ Adult Swim
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
-#EXTINF:-1 tvg-ID="axstv.us" tvg-name=" US: AHC" tvg-logo="" group-title="USA CHANNELS", US: AHC
+#EXTINF:-1 tvg-id="" tvg-name="CA-AHC" tvg-logo="http://212.8.253.112/logo/CANADA/AHC.png" group-title="AM | CANADA",CA-AHC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
 #EXTINF:-1, tvg-id="415.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/BBCCANADA.png" tvg-name="BBC Canada East"  group-title="Canada",BBC Canada East
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
@@ -305,9 +305,9 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
 #EXTINF:-1, tvg-id="84.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HBO1.png" tvg-name="HBO Canada1"  group-title="Canada",HBO Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
-#EXTINF:-1 tvg-id="" tvg-name="CA-VIP FX HD" tvg-logo="" group-title="AM | CANADA",CA-VIP FX HD
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://jeantutoriais.com/wp-content/uploads/2019/07/PicsArt_07-11-07.01.24.jpg"    group-title="",FX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
-#EXTINF:-1 tvg-id="" tvg-name="CA-VIP FXX HD" tvg-logo="" group-title="AM | CANADA",CA-VIP FXX H
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US: FXX" tvg-logo="http://miabox.net/logo_picture/FXX.png" group-title="USA ENTERTAINMENT" Ca: FXX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
 #EXTINF:-1 tvg-id="" tvg-name="CA-THE WEATHER NETWORK" tvg-logo="http://212.8.253.112/logo/CANADA/THEWEATHERNETWORK.png" group-title="AM | CANADA",CA-THE WEATHER NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
