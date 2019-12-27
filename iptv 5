@@ -376,7 +376,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/685
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/MLBNETWORK.png" tvg-name="MLB NETWORK"  group-title="Canada",MLB NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/660
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="#N/A" tvg-name="MOI CIE"  group-title="Canada",MOI CIE
+#EXTINF:-1 tvg-id="Moicie.ca" tvg-name="CAF- MOI CIE" tvg-logo="http://212.8.253.112/logo/CANADA/MOICIE.png" group-title="AM | CANADA FR",CAF- MOI CIE
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
 #EXTINF:-1 tvg-ID="" tvg-name="MOVIE TIME HD" tvg-logo="https://s3.amazonaws.com/ok2logo/movietime.png" group-title="ENGLISH",MOVIE TIME HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
