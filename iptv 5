@@ -335,7 +335,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
 #EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="CA-DISNEY CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/DISNEYCANADA.png" group-title="AM | CANADA",CA-DISNEY CANADA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/691
-#EXTINF:-1 tvg-ID="" tvg-name="Canada: DOCUMENTARY" tvg-logo="" group-title="CANADA",Canada: DOCUMENTARY
+#EXTINF:-1 tvg-id="DocumentaryChannel.ca" tvg-name="CA-DOCUMENTARY" tvg-logo="http://212.8.253.112/logo/CANADA/DOCUMENTARY.png" group-title="AM | CANADA",CA-DOCUMENTARY
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/688
 #EXTINF:-1, tvg-id="295.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/E%21CANADA.png" tvg-name="E! Canada"  group-title="Canada",E! Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/687
