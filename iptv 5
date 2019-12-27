@@ -305,7 +305,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
 #EXTINF:-1, tvg-id="84.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HBO1.png" tvg-name="HBO Canada1"  group-title="Canada",HBO Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
-#EXTINF:-1 tvg-id="fx.us" tvg-name="US: FX HD" tvg-logo="http://miabox.net/logo_picture/FX.png" group-title="USA ENTERTAINMENT" CA: FX HD
+#EXTINF:-1 tvg-id="fx.us" tvg-name="||CA|| FX HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/fx.png" group-title="UNITED STATES",||CA|| FX HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="US: FXX" tvg-logo="http://miabox.net/logo_picture/FXX.png" group-title="USA ENTERTAINMENT" CA: FXX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
