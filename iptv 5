@@ -396,11 +396,11 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
 #EXTINF:-1 tvg-id="" tvg-name="CA-OWN" tvg-logo="http://212.8.253.112/logo/CANADA/OWN.png" group-title="AM | CANADA",CA-OWN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
-#EXTINF:-1 tvg-id="" tvg-name="CA | RDS" tvg-logo="" group-title="other",CA | RDS
+#EXTINF:-1 tvg-id="RDSInfo.ca" tvg-name="CAF- RDS" tvg-logo="http://212.8.253.112/logo/CANADA/RDS.png" group-title="AM | CANADA FR",CAF- RDS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
-#EXTINF:-1 tvg-id="" tvg-name="CA | RDS INFO" tvg-logo="" group-title="other",CA | RDS INFO
+#EXTINF:-1 tvg-id="RDSInfo.ca" tvg-name="CAF- RDS INFO" tvg-logo="http://212.8.253.112/logo/CANADA/RDSINFO.png" group-title="AM | CANADA FR",CAF- RDS INFO
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
-#EXTINF:-1 tvg-id="" tvg-name="CA | RDS 2" tvg-logo="" group-title="other",CA | RDS 2
+#EXTINF:-1 tvg-id="RDS2.ca" tvg-name="CAF- RDS 2" tvg-logo="http://212.8.253.112/logo/CANADA/RDS2.png" group-title="AM | CANADA FR",CAF- RDS 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
 #EXTINF:-1 tvg-id="" tvg-name="CA | SPIKE TV USA" tvg-logo="" group-title="other",CA | SPIKE TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/637
