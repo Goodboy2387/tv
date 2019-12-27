@@ -378,7 +378,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/660
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="#N/A" tvg-name="MOI CIE"  group-title="Canada",MOI CIE
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
-#EXTINF:-1, tvg-id="464.stations.xmltv.tvmedia.ca" tvg-logo="#N/A" tvg-name="MovieTime"  group-title="Canada",MovieTime
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIE TIME HD" tvg-logo="https://s3.amazonaws.com/ok2logo/movietime.png" group-title="ENGLISH",MOVIE TIME HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
 #EXTINF:-1 tvg-id="" tvg-name="CA-MTV" tvg-logo="http://212.8.253.112/logo/CANADA/MTV.png" group-title="AM | CANADA",CA-MTV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
