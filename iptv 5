@@ -447,8 +447,9 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/750
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/749
 #EXTINF:-1 tvg-id="Vision.ca" tvg-name="CA-VISION" tvg-logo="http://212.8.253.112/logo/CANADA/VISION.png" group-title="AM | CANADA",CA-VISION
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
-#EXTINF:-1 tvg-id="" tvg-name="CA-YTV" tvg-logo="http://212.8.253.112/logo/CANADA/YTV.png" group-title="AM | CANADA",CA-YTV
+
 #EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
+#EXTINF:-1 tvg-id="" tvg-name="CA-YTV" tvg-logo="http://212.8.253.112/logo/CANADA/YTV.png" group-title="AM | CANADA",CA-YTV
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA-AMC" tvg-logo="http://212.8.253.112/logo/CANADA/AMC.png" group-title="AM | CANADA",CA-AMC
