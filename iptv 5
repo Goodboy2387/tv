@@ -305,9 +305,9 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
 #EXTINF:-1, tvg-id="84.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HBO1.png" tvg-name="HBO Canada1"  group-title="Canada",HBO Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://jeantutoriais.com/wp-content/uploads/2019/07/PicsArt_07-11-07.01.24.jpg"    group-title="",FX
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US: FX HD" tvg-logo="http://miabox.net/logo_picture/FX.png" group-title="USA ENTERTAINMENT" CA: FX HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="US: FXX" tvg-logo="http://miabox.net/logo_picture/FXX.png" group-title="USA ENTERTAINMENT" Ca: FXX
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US: FXX" tvg-logo="http://miabox.net/logo_picture/FXX.png" group-title="USA ENTERTAINMENT" CA: FXX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
 #EXTINF:-1 tvg-id="" tvg-name="CA-THE WEATHER NETWORK" tvg-logo="http://212.8.253.112/logo/CANADA/THEWEATHERNETWORK.png" group-title="AM | CANADA",CA-THE WEATHER NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
