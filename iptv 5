@@ -307,7 +307,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
 #EXTINF:-1 tvg-id="fx.us" tvg-name="||CA|| FX HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/fx.png" group-title="UNITED STATES",||CA|| FX HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="||CA|| FXX HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/fxx.png" group-title="UNITED STATES",||CA|| FXX HD
+#EXTINF:-1 tvg-id="66379" tvg-name="FXX East" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/1201.png" group-title="Entertainments",FXX 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
 #EXTINF:-1 tvg-id="" tvg-name="CA-THE WEATHER NETWORK" tvg-logo="http://212.8.253.112/logo/CANADA/THEWEATHERNETWORK.png" group-title="AM | CANADA",CA-THE WEATHER NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
