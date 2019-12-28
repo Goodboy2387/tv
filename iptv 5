@@ -97,7 +97,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL" tvg-id="" tvg-name="", News 12 (The Bronx)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX#EXTINF:-1 tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="UK" tvg-id="" tvg-name="", France 24 English (Opt-1)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
 #EXTINF:0  tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",[COLOR red] CBC Calgary[/COLOR]
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 
