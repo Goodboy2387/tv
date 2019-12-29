@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="",Knowledge Network
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1,NBC (East)
