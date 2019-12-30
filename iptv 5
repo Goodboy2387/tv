@@ -240,7 +240,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
 #EXTINF:-1, tvg-id="84.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HBO1.png" tvg-name="HBO Canada1"  group-title="Canada",HBO 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
-#EXTINF:-1 tvg-id="fx.us" tvg-name="||CA|| FX HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/fx.png" group-title="UNITED STATES",FX 
+#EXTINF:-1 tvg-name="FX HD" tvg-id="I248.58574.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fx%20hd.png" group-title="United States",FX HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
 #EXTINF:-1 tvg-id="66379" tvg-name="FXX East" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/1201.png" group-title="Entertainments",FXX 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
@@ -350,7 +350,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
 #EXTINF:-1 tvg-id="MuchMusic.ca" tvg-name="CA-MUCH MUSIC" tvg-logo="http://212.8.253.112/logo/CANADA/MUCHMUSIC.png" group-title="AM | CANADA",MUCH MUSIC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/654
-#EXTINF:-1, tvg-id="475.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/NATIONALGEOGRAPHICHD.png" tvg-name="National Geographic Canada"  group-title="Canada",National Geographic 
+ #EXTINF:-1 tvg-name="Nat Geo CA HD" tvg-id="I524.26882.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/nat%20geo%20ca%20hd.png" group-title="Canada",Nat Geo CA HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
 #EXTINF:-1 tvg-name="NBA TV HD" tvg-id="I216.45526.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/nba%20network%20hd.png" group-title="Sports",NBA TV HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
@@ -360,7 +360,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/651
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
 #EXTINF:-1 tvg-id="" tvg-name="CA-VIP OLN HD" tvg-logo="http://212.8.253.112/logo/CANADA/OLN.png" group-title="AM | CANADA",OLN 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
-#EXTINF:-1 tvg-id="" tvg-name="CA-OWN" tvg-logo="http://212.8.253.112/logo/CANADA/OWN.png" group-title="AM | CANADA",OWN
+#EXTINF:-1 tvg-name="OWN CA HD" tvg-id="I526.20714.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/own%20ca%20hd.png" group-title="Canada",OWN CA HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
 #EXTINF:-1 tvg-id="RDSInfo.ca" tvg-name="CAF- RDS" tvg-logo="http://212.8.253.112/logo/CANADA/RDS.png" group-title="AM | CANADA FR",RDS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
