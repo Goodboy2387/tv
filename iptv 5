@@ -94,36 +94,36 @@ http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTAwMzk4Mzg4NTYw/wgnchicago-logoresized-bcpng.png" group-title="USA LOCAL" tvg-id="" tvg-name="", WGN-TV News (Chicago)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20549.pcdn.co/wp-content/uploads/social_seo_logo_home-settings_1200x630.jpg" group-title="CANADA FRANCAIS",[COLOR blue]CPAC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20549.pcdn.co/wp-content/uploads/social_seo_logo_home-settings_1200x630.jpg" group-title="CANADA FRANCAIS",CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL" tvg-id="" tvg-name="", News 12 (The Bronx)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX#EXTINF:-1 tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="UK" tvg-id="" tvg-name="", France 24 
 
-#EXTINF:0  tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",[COLOR red] CBC Calgary
+#EXTINF:0  tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",[COLOR red]CBC Charlottetown
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Charlottetown
 https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",[COLOR red]CBC Edmonton
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Edmonton
 https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",[COLOR red]CBC Fredericton
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Fredericton
 https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",[COLOR red]CBC Halifax
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Halifax
 https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",[COLOR red]CBC Montreal
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Montreal
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",[COLOR red]CBC Ottawa
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",[COLOR red]CBC Regina
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Regina
 https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",[COLOR red]CBC St -John
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC St -John
 https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
 #EXTINF:0,WGN America HD
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-b.m3u8
