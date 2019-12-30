@@ -278,8 +278,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playl
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PLpyQsV.png" , TRT World 
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1 tvg-id="chn445" group-title="Canada"  tvg-logo="chch_hamilton_hd.png",CHCH
+#EXTINF:-1 tvg-id="CHCH.ca" tvg-name="CA-CHCH" tvg-logo="http://212.8.253.112/logo/CANADA/CHCH.png" group-title="AM | CANADA",CA-CHCH
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/545
 #EXTINF:-1, tvg-id="4311.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/A%26E.png" tvg-name="A&amp;E Canada"  group-title="Canada",A&amp;E Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/727
