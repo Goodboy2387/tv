@@ -383,7 +383,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
 #EXTINF:-1 tvg-id="" tvg-name="CA-MTV" tvg-logo="http://212.8.253.112/logo/CANADA/MTV.png" group-title="AM | CANADA",CA-MTV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
-#EXTINF:0 type="stream" channelId="1408" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/28.png" , MUCH MUSIC
+#EXTINF:-1 tvg-id="MuchMusic.ca" tvg-name="CA-MUCH MUSIC" tvg-logo="http://212.8.253.112/logo/CANADA/MUCHMUSIC.png" group-title="AM | CANADA",MUCH MUSIC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/654
 #EXTINF:-1, tvg-id="475.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/NATIONALGEOGRAPHICHD.png" tvg-name="National Geographic Canada"  group-title="Canada",National Geographic Canada
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
