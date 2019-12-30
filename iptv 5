@@ -84,8 +84,6 @@ http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTAwMzk4Mzg4NTYw/wgnchicago-logoresized-bcpng.png" group-title="USA LOCAL" tvg-id="" tvg-name="", WGN-TV News (Chicago)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20549.pcdn.co/wp-content/uploads/social_seo_logo_home-settings_1200x630.jpg" group-title="CANADA FRANCAIS",CPAC
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL" tvg-id="" tvg-name="", News 12 (The Bronx)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX#EXTINF:-1 tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="UK" tvg-id="" tvg-name="", France 24 
 #EXTINF:0,WGN America HD
@@ -139,16 +137,10 @@ http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1,Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="CANADA FRANCAIS",[COLOR blue]ici Radio-Canada (Est du Québec)[/COLOR]
-https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
 #EXTINF:-1,Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="CANADA FRANCAIS",[COLOR blue]ici Radio-Canada (Grand Nord)[/COLOR]
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
 #EXTINF:-1,Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="CANADA FRANCAIS",[COLOR blue]ici Radio-Canada (Mauricie-Centre du Québec)[/COLOR]
-https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
 #EXTINF:-1,Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 #EXTINF:-1,FOX 23 Tulsa (KOKI)
@@ -388,7 +380,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
 #EXTINF:-1 tvg-id="SuperEcran3.ca" tvg-name="CAF- SUPER ECRAN 3" tvg-logo="http://212.8.253.112/logo/CANADA/SUPERECRAN%203.png" group-title="AM | CANADA FR",SUPER ECRAN 3
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
-#EXTINF:-1 tvg-id="" tvg-name="CA TREE HOUSE" tvg-logo="" group-title="CANADIAN TV",TREE HOUSE
+#EXTINF:-1 tvg-logo="treehouse.png" tvg-id="" tvg-name="" group-title="4-CANADA",Treehouse
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -448,4 +440,11 @@ http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
 #EXTINF:-1,ICI Télé
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20549.pcdn.co/wp-content/uploads/social_seo_logo_home-settings_1200x630.jpg" group-title="CANADA FRANCAIS",CPAC
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="CANADA FRANCAIS",[COLOR blue]ici Radio-Canada (Mauricie-Centre du Québec)[/COLOR]
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="CANADA FRANCAIS",[COLOR blue]ici Radio-Canada (Grand Nord)[/COLOR]
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="CANADA FRANCAIS",[COLOR blue]ici Radio-Canada (Est du Québec)[/COLOR]
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
