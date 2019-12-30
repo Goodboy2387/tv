@@ -403,7 +403,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
 #EXTINF:-1 tvg-id="RDS2.ca" tvg-name="CAF- RDS 2" tvg-logo="http://212.8.253.112/logo/CANADA/RDS2.png" group-title="AM | CANADA FR",CAF- RDS 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
-#EXTINF:-1 tvg-id="" tvg-name="CA | SPIKE TV USA" tvg-logo="" group-title="other",CA | SPIKE TV
+#EXTINF:-1 tvg-id="" tvg-name="CA-SPIKE TV / PARAMOUNT CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/SPIKETVPARAMOUNTCANADA.png" group-title="AM | CANADA",CA-SPIKE TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/637
 #EXTINF:-1 tvg-id="" tvg-name="CA-SPORTSNET EAST" tvg-logo="http://212.8.253.112/logo/CANADA/SPORTSNETEAST.png" group-title="AM | CANADA",CA-SPORTSNET EAST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
