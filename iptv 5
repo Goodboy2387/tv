@@ -280,7 +280,7 @@ http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-id="CHCH.ca" tvg-name="CA-CHCH" tvg-logo="http://212.8.253.112/logo/CANADA/CHCH.png" group-title="AM | CANADA",CA-CHCH
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/545
-#EXTINF:-1, tvg-id="4311.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/A%26E.png" tvg-name="A&amp;E Canada"  group-title="Canada",A&amp;E Canada
+#EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA-A&E" tvg-logo="http://212.8.253.112/logo/CANADA/A%26E.png" group-title="AM | CANADA",CA-A&E
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/727
 #EXTINF:-1 tvg-id="RDS2.ca" tvg-name="CAF- RDS 2" tvg-logo="http://212.8.253.112/logo/CANADA/RDS2.png" group-title="AM | CANADA FR",CAF- RDS 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
