@@ -224,7 +224,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/717
 #EXTINF:-1, tvg-id="164.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HISTORY.png" tvg-name="History Canada East"  group-title="Canada",History 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/669
-#EXTINF:-1 tvg-name="Teletoon HD" tvg-id="I1653.75456.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/teletooon%20hd.png" group-title="Canada",Teletoon HD
+#EXTINF:-1 tvg-id="" tvg-name="CA-TELE TOON EAST" tvg-logo="http://212.8.253.112/logo/CANADA/TELETOONEAST.png" group-title="AM | CANADA",TELETOON
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
 #EXTINF:-1 tvg-id="CMT.ca" tvg-name="CA-CMT CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/CMTCANADA.png" group-title="AM | CANADA",CMT 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
@@ -252,7 +252,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
 #EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA-CRIME   INVEST" tvg-logo="http://212.8.253.112/logo/CANADA/CRIMEINVEST.png" group-title="AM | CANADA",CRIME INVESTIGATION
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
-#EXTINF:-1 tvg-id="ComedyGold.ca" tvg-name="CA-COMEDY EAST" tvg-logo="http://212.8.253.112/logo/CANADA/COMEDYEAST.png" group-title="AM | CANADA",CCOMEDY 
+#EXTINF:-1 tvg-id="ComedyNetwork.ca" tvg-name="CA | COMEDY HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/the_comedy_network_east.jpg" group-title="CANADA",CA | COMEDY 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
 #EXTINF:-1 tvg-id="CBSSports.ca" tvg-name="CA-CBS EAST" tvg-logo="http://212.8.253.112/logo/CANADA/CBSEAST.png" group-title="AM | CANADA",CBS 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
@@ -294,7 +294,7 @@ https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
 #EXTINF:-1 tvg-logo="http://www.daystar.com/wp-content/uploads/daystar-logo-1.png" group-title="USA/Canada",Daystar TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/694
-#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA-DISCOVERY CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/DISCOVERYCANADA.png" group-title="AM | CANADA",DISCOVERY 
+#EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="CA | DISCOVERY HD" tvg-logo="https://s3.amazonaws.com/stricons/DiscoveryChannel.ca.png" group-title="CANADA",DISCOVERY
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
 #EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="CA-DISCOVERY SCIENCE CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/DISCOVERYSCIENCECANADA.png" group-title="AM | CANADA",DISCOVERY SCIENCE 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
@@ -312,10 +312,9 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/683
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
 #EXTINF:-1 tvg-id="" tvg-name="CA-FOOD NETWORK" tvg-logo="http://212.8.253.112/logo/CANADA/FOODNETWORK.png" group-title="AM | CANADA",FOOD NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/681
-#EXTINF:-1 tvg-id="" tvg-name="CA-FOX EAST" tvg-logo="http://212.8.253.112/logo/CANADA/FOXEAST.png" group-title="AM | CANADA",FOX EAST
 #EXTINF:-1 tvg-logo="https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg" group-title="CANADA" tvg-id="" tvg-name="", Tele-Quebec
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA-FOX NEWS" tvg-logo="http://212.8.253.112/logo/CANADA/FOXNEWS.png" group-title="AM | CANADA",FOX NEWS
+#EXTINF:-1 tvg-id="" tvg-name="CA-FOX EAST" tvg-logo="http://212.8.253.112/logo/CANADA/FOXEAST.png" group-title="AM | CANADA",FOX 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
 #EXTINF:-1, tvg-id="329.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/GSN.png" tvg-name="GSN"  group-title="Canada",GSN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/676
@@ -327,15 +326,15 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/673
 #EXTINhttp://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671F:0,Channel
 #EXTINF:-1 tvg-id="" tvg-name="CA-VIP HGTV HD" tvg-logo="http://212.8.253.112/logo/CANADA/HGTV.png" group-title="AM | CANADA",HGTV 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
-#EXTINF:-1 tvg-logo="historia.png" tvg-id="I21542.labs.zap2it.com" tvg-name="Historia" group-title="4-CANADA",Historia
+#EXTINF:-1 tvg-id="Historia" tvg-name="CA|FR: HISTORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Hstra.png" group-title="CANADA",HISTORIA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
 #EXTINF:-1 tvg-id="" tvg-name="CA-ID CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/IDCANADA.png" group-title="AM | CANADA",INVERSTIGATION DISCOVERY 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
-#EXTINF:-1, tvg-id="1148.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/LIFETIME.png" tvg-name="Lifetime TV - Canada"  group-title="Canada",Lifetime 
+#EXTINF:-1 tvg-id="LifetimeTV.ca" tvg-name="CA | LIFETIME HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lifetime_ca.jpg" group-title="CANADA",LIFETIME 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/663
 #EXTINF:-1 tvg-id="" tvg-name="CA-ENCORE 1 EAST" tvg-logo="http://212.8.253.112/logo/CANADA/ENCORE1EAST.png" group-title="AM | CANADA",ENCORE 1 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
-#EXTINF:-1 tvg-ID="" tvg-name="CA: ENCORE 2 EAST" tvg-logo="http://logo.noih.tv/CANADA/ENCORE1EAST.png" group-title="US Canada",ENCORE 2
+#EXTINF:-1 tvg-id="" tvg-name="CA-ENCORE 2 EAST" tvg-logo="http://212.8.253.112/logo/CANADA/ENCORE1EAST.png" group-title="AM | CANADA",ENCORE 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/685
 #EXTINF:-1 tvg-id="MAX.ca" tvg-name="CAF- MAX" tvg-logo="http://212.8.253.112/logo/CANADA/MAX.png" group-title="AM | CANADA FR",MAX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
@@ -347,7 +346,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
 #EXTINF:-1 tvg-id="" tvg-name="CA-MTV" tvg-logo="http://212.8.253.112/logo/CANADA/MTV.png" group-title="AM | CANADA",MTV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
-#EXTINF:-1 tvg-id="MuchMusic.ca" tvg-name="CA-MUCH MUSIC" tvg-logo="http://212.8.253.112/logo/CANADA/MUCHMUSIC.png" group-title="AM | CANADA",MUCH MUSIC
+#EXTINF:-1 tvg-id="MuchMusic.ca" tvg-name="CA | MUCHMUSIC HD" tvg-logo="https://s3.amazonaws.com/rsicons/much_music_ca.jpg" group-title="CANADA",CA | MUCHMUSIC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/654
  #EXTINF:-1 tvg-name="Nat Geo CA HD" tvg-id="I524.26882.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/nat%20geo%20ca%20hd.png" group-title="Canada",Nat Geo 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
