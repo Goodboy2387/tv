@@ -1,19 +1,9 @@
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="",Knowledge Network
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-ID="I392.11705.schedulesdirect.org" tvg-name="NBC (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/200px-NBC_logo.svg.png" group-title="USA",NBC (East)
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1 tvg-ID="I390.11331.schedulesdirect.org" tvg-name="CBS (East)" tvg-logo="http://www.sitcomsonline.com/photos/cbslogo.jpg" group-title="USA",CBS 
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="CANADA" tvg-id="" tvg-name="", CBC News Network 
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="CANADA" tvg-id="" tvg-name="", Assemblee Nationale du Quebec
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg" group-title="CANADA" tvg-id="" tvg-name="", Tele-Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="USA" tvg-id="" tvg-name="", American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="USA" tvg-id="" tvg-name="", Atlanta Channel
@@ -98,53 +88,10 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL" tvg-id="" tvg-name="", News 12 (The Bronx)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX#EXTINF:-1 tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="UK" tvg-id="" tvg-name="", France 24 
-
-#EXTINF:0  tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Calgary
-https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Charlottetown
-https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Edmonton
-https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Fredericton
-https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Halifax
-https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Montreal
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Ottawa
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Regina
-https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC St John
-https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
 #EXTINF:0,WGN America HD
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-b.m3u8
-#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="CANADA FRANCAIS",ici Radio
-https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
 #EXTINF:0,VH1 HD
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Toronto
-https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Vancouver
-https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Windsor
-https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Winnipeg
-https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Yellowknife
-https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dc/Canal_J_logo_2015.png" tvg-id="CanalJ" group-title="EUROPE",CANAL J
 http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/images/logo-nat-geo-people-92550.jpg?itok=DTWQ-Lwo" group-title="",Nat Geo People
@@ -168,7 +115,6 @@ http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:0, BBC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" , France24 
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0, Al Jazeera HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (SD)
@@ -181,8 +127,6 @@ https://live.chdrstatic.com/cheddar/primary/1.m3u8
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="USA",Kartoon Fun Time 
 https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
-#EXTINF:-1,ICI Télé
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1,CBN News 
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1,Fashion FLIX 
@@ -268,6 +212,8 @@ http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828
 #EXTINF:-1 tvg-id="USTV" tvg-name="Cheddar Big News" tvg-logo="http://1hdlxe1oe0ll1eghud24le5v.wpengine.netdna-cdn.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-17-at-5.38.40-PM-300x272.png" group-title="USA TV",Cheddar Big News HD {Main}
 https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="",Knowledge Network
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-id="USTV" tvg-name="TCT.us" tvg-logo="https://tr.live-tv-channels.net/pt-data/uploads/logo/us-tct-la-fuente.jpg" group-title="Christian TV",TCT 
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHDHLS/TCTHDHLS_Live_2200.m3u8
 #EXTINF:-1 tvg-id="USTV" tvg-name="TCT.us" tvg-logo="https://i.pinimg.com/736x/df/d1/94/dfd194a929de3f2eb7be4f1d21e1c7f0.jpg" group-title="Christian TV",TCT Kids 
@@ -324,6 +270,36 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/697
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/696
 #EXTINF:-1 tvg-id="" tvg-name="CA-CW 11" tvg-logo="http://212.8.253.112/logo/CANADA/CW11.png" group-title="AM | CANADA",CW 11
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/695
+#EXTINF:0  tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Calgary
+https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Charlottetown
+https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Edmonton
+https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Fredericton
+https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Halifax
+https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Montreal
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Ottawa
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+#EXTINF:-1 tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="CANADA" tvg-id="" tvg-name="", CBC News Network 
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Regina
+https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Toronto
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Vancouver
+https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Windsor
+https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Winnipeg
+https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Yellowknife
+https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC St John
+https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
 #EXTINF:-1 tvg-logo="http://www.daystar.com/wp-content/uploads/daystar-logo-1.png" group-title="USA/Canada",Daystar TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/694
 #EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA-DISCOVERY CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/DISCOVERYCANADA.png" group-title="AM | CANADA",DISCOVERY 
@@ -345,7 +321,8 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
 #EXTINF:-1 tvg-id="" tvg-name="CA-FOOD NETWORK" tvg-logo="http://212.8.253.112/logo/CANADA/FOODNETWORK.png" group-title="AM | CANADA",FOOD NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/681
 #EXTINF:-1 tvg-id="" tvg-name="CA-FOX EAST" tvg-logo="http://212.8.253.112/logo/CANADA/FOXEAST.png" group-title="AM | CANADA",FOX EAST
-
+#EXTINF:-1 tvg-logo="https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg" group-title="CANADA" tvg-id="" tvg-name="", Tele-Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
 #EXTINF:-1 tvg-id="" tvg-name="CA-FOX NEWS" tvg-logo="http://212.8.253.112/logo/CANADA/FOXNEWS.png" group-title="AM | CANADA",FOX NEWS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/679
@@ -413,7 +390,8 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
 #EXTINF:-1 tvg-id="" tvg-name="CA TREE HOUSE" tvg-logo="" group-title="CANADIAN TV",TREE HOUSE
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1, tvg-id="133.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCEAST.png" tvg-name="ABC (WCVB) Boston MA"  group-title="Canada",ABC (WCVB) Boston MA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
 #EXTINF:-1 tvg-id="TLC.ca" tvg-name="CA-TLC CANADA" tvg-logo="http://212.8.253.112/logo/USA/TLCHD.png" group-title="AM | CANADA",TLC 
@@ -464,7 +442,10 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA-TSN 5" tvg-logo="http://212.8.253.112/logo/CANADA/TSN5.png" group-title="AM | CANADA",TSN 5
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="CANADA" tvg-id="" tvg-name="", Assemblee Nationale du Quebec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="CANADA FRANCAIS",ici Radio
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
+#EXTINF:-1,ICI Télé
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 
