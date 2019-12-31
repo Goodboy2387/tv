@@ -248,7 +248,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
 #EXTINF:-1, tvg-id="181.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCWEST.png" tvg-name="ABC (KOMO) Seattle WA"  group-title="Canada",ABC (KOMO) Seattle WA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV NEWS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
 #EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA-CRIME   INVEST" tvg-logo="http://212.8.253.112/logo/CANADA/CRIMEINVEST.png" group-title="AM | CANADA",CRIME INVESTIGATION
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
@@ -258,7 +258,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
 #EXTINF:-1 tvg-id="CTV2Ottawa.ca" tvg-name="CA-CTV2 OTTAWA" tvg-logo="http://212.8.253.112/logo/CANADA/CTV2OTTAWA.png" group-title="AM | CANADA",CTV2 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/697
-#EXTINF:0,Channel CTV2 OTTAWA
+#EXTINF:0,Channel CTV OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/696
 #EXTINF:-1 tvg-id="" tvg-name="CA-CW 11" tvg-logo="http://212.8.253.112/logo/CANADA/CW11.png" group-title="AM | CANADA",CW 11
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/695
@@ -346,7 +346,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
 #EXTINF:-1 tvg-id="" tvg-name="CA-MTV" tvg-logo="http://212.8.253.112/logo/CANADA/MTV.png" group-title="AM | CANADA",MTV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
-#EXTINF:-1 tvg-id="MuchMusic.ca" tvg-name="CA | MUCHMUSIC HD" tvg-logo="https://s3.amazonaws.com/rsicons/much_music_ca.jpg" group-title="CANADA",CA | MUCHMUSIC
+#EXTINF:-1 tvg-id="MuchMusic.ca" tvg-name="CA | MUCHMUSIC HD" tvg-logo="https://s3.amazonaws.com/rsicons/much_music_ca.jpg" group-title="CANADA",MUCHMUSIC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/654
  #EXTINF:-1 tvg-name="Nat Geo CA HD" tvg-id="I524.26882.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/nat%20geo%20ca%20hd.png" group-title="Canada",Nat Geo 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
