@@ -232,7 +232,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",Adult Swim
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
-#EXTINF:-1 tvg-id="" tvg-name="CA-AHC" tvg-logo="http://212.8.253.112/logo/CANADA/AHC.png" group-title="AM | CANADA",AHC
+#EXTINF:-1 tvg-id="" tvg-name="CA-AHC" tvg-logo="https://bit.ly/2SLs39p" group-title="AM | CANADA",AHC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
 #EXTINF:-1, tvg-id="415.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/BBCCANADA.png" tvg-name="BBC Canada East"  group-title="Canada",BBC Canada 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
@@ -272,7 +272,7 @@ https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
 https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Halifax
 https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
-#EXTINF:-1 tvg-name="CBC Montreal HD" tvg-id="I206.10092.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cbc%20montreal%20hd.png" group-title="Canada",CBC Montreal
+#EXTINF:-1 tvg-name="CBC Montreal HD" tvg-id="I206.10092.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/438px-CBC_Logo_1992-Present.svg.png" group-title="Canada",CBC Montreal
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
@@ -358,7 +358,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/651
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
 #EXTINF:-1 tvg-id="" tvg-name="CA-VIP OLN HD" tvg-logo="http://212.8.253.112/logo/CANADA/OLN.png" group-title="AM | CANADA",OLN 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
-#EXTINF:-1 tvg-name="OWN CA HD" tvg-id="I526.20714.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/own%20ca%20hd.png" group-title="Canada",OWN CA HD
+#EXTINF:-1 tvg-name="OWN CA HD" tvg-id="I526.20714.schedulesdirect.org" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/Oprah_Winfrey_Network_2010b.png" group-title="Canada",OWN CA HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
 #EXTINF:-1 tvg-id="RDSInfo.ca" tvg-name="CAF- RDS" tvg-logo="http://212.8.253.112/logo/CANADA/RDS.png" group-title="AM | CANADA FR",RDS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
