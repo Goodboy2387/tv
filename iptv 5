@@ -378,7 +378,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
 #EXTINF:-1 tvg-id="SuperEcran3.ca" tvg-name="CAF- SUPER ECRAN 3" tvg-logo="http://212.8.253.112/logo/CANADA/SUPERECRAN%203.png" group-title="AM | CANADA FR",SUPER ECRAN 3
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
-#EXTINF:-1 tvg-logo="treehouse.png" tvg-id="" tvg-name="" group-title="4-CANADA",Treehouse
+#EXTINF:-1 tvg-logo="https://www.treehousevitamins.com/wp-content/themes/Treehouse/images/logo.png" tvg-id="" tvg-name="" group-title="4-CANADA",Treehouse
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -406,7 +406,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/752
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/745
 #EXTINF:0,Channel LEAFS TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/751
-#EXTINF:-1 tvg-name="Space HD" tvg-id="I627.17609.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/space%20hd.png" group-title="Canada",Space HD
+#EXTINF:-1 tvg-name="Space HD" tvg-id="I627.17609.schedulesdirect.org" tvg-logo="https://vignette.wikia.nocookie.net/expanse/images/3/34/SpaceCanada_logo.png/revision/latest?cb=20181002182534" group-title="Canada",Space HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/750
 #EXTINF:-1 tvg-id="" tvg-name="CA-TELE LATINO" tvg-logo="http://212.8.253.112/logo/CANADA/TELELATINO.png" group-title="AM | CANADA",TELE LATINO
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/749
