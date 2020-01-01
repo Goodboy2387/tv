@@ -252,7 +252,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
 #EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA-CRIME   INVEST" tvg-logo="http://212.8.253.112/logo/CANADA/CRIMEINVEST.png" group-title="AM | CANADA",CRIME INVESTIGATION
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
-#EXTINF:-1 tvg-id="ComedyNetwork.ca" tvg-name="CA | COMEDY HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/the_comedy_network_east.jpg" group-title="CANADA",CTV COMEDY 
+#EXTINF:-1 tvg-id="I285.76863.schedulesdirect.org" tvg-name="|CA| Comedy HD" tvg-logo="https://bit.ly/2QC3Y2g" group-title="CAN Channels",Comedy
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
 #EXTINF:-1 tvg-id="CBSSports.ca" tvg-name="CA-CBS EAST" tvg-logo="http://212.8.253.112/logo/CANADA/CBSEAST.png" group-title="AM | CANADA",CBS 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
@@ -320,7 +320,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/676
 #EXTINF:0,Channel GINX ESPORT TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
-#EXTINF:-1 tvg-id="" tvg-name="CA-GOLF" tvg-logo="http://212.8.253.112/logo/CANADA/GOLF.png" group-title="AM | CANADA",GOLF
+#EXTINF:-1 tvg-id="I513.65385.schedulesdirect.org" tvg-name="|CA| GOLF HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/golf.png" group-title="CAN Channels",GOLF
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/673
 #EXTINF:-1 tvg-id="I502.59368.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-
 #EXTINhttp://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671F:0,Channel
@@ -330,7 +330,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
 #EXTINF:-1 tvg-id="" tvg-name="CA-ID CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/IDCANADA.png" group-title="AM | CANADA",INVERSTIGATION DISCOVERY 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
-#EXTINF:-1 tvg-id="LifetimeTV.ca" tvg-name="CA | LIFETIME HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lifetime_ca.jpg" group-title="CANADA",LIFETIME 
+#EXTINF:-1 tvg-id="I322.26768.schedulesdirect.org" tvg-name="|CA| Lifetime HD" tvg-logo="https://bit.ly/2Qby39L" group-title="CAN Channels",Lifetime
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/663
 #EXTINF:-1 tvg-id="" tvg-name="CA-ENCORE 1 EAST" tvg-logo="http://212.8.253.112/logo/CANADA/ENCORE1EAST.png" group-title="AM | CANADA",ENCORE 1 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
@@ -342,7 +342,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/660
 #EXTINF:-1 tvg-id="Moicie.ca" tvg-name="CAF- MOI CIE" tvg-logo="http://212.8.253.112/logo/CANADA/MOICIE.png" group-title="AM | CANADA FR",MOI CIE
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
-#EXTINF:-1 tvg-ID="" tvg-name="MOVIE TIME HD" tvg-logo="https://s3.amazonaws.com/ok2logo/movietime.png" group-title="ENGLISH",MOVIE TIME 
+ #EXTINF:-1 tvg-id="I86.27125.schedulesdirect.org" tvg-name="|CA| MovieTime HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movietime.png" group-title="CAN Channels",MovieTime
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
 #EXTINF:-1 tvg-id="" tvg-name="CA-MTV" tvg-logo="http://212.8.253.112/logo/CANADA/MTV.png" group-title="AM | CANADA",MTV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
