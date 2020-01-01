@@ -384,7 +384,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1, tvg-id="133.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCEAST.png" tvg-name="ABC (WCVB) Boston MA"  group-title="Canada",ABC (WCVB) Boston MA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
-#EXTINF:-1 tvg-name="TLC CA HD" tvg-id="I521.60734.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/tlc%20ca%20hd.png" group-title="Canada",TLC CA HD
+#EXTINF:-1 tvg-name="TLC CA HD" tvg-id="I521.60734.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Canada",TLC CA HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/628
 #EXTINF:-1 tvg-id="TV5.ca" tvg-name="CAF- TV5 QUEBEC" tvg-logo="http://212.8.253.112/logo/CANADA/TV5QUEBEC.png" group-title="AM | CANADA FR",TV5 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
@@ -398,7 +398,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/619
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/618
 #EXTINF:-1 tvg-id="" tvg-name="CA-WGN" tvg-logo="http://212.8.253.112/logo/CANADA/WGN.png" group-title="AM | CANADA",WGN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/616
-#EXTINF:-1 tvg-name="YES Network HD" tvg-id="I631.46275.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/yes%20network%20hd.png" group-title="Sports",YES Network HD
+#EXTINF:-1 tvg-name="YES Network HD" tvg-id="I631.46275.schedulesdirect.org" tvg-logo="https://extremecouponingmom.ca/wp-content/uploads/2014/08/YESTVlogo.jpg" group-title="Sports",YES Network HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/615
 #EXTINF:-1 tvg-name="BNN HD" tvg-id="I504.20709.schedulesdirect.org" tvg-logo="https://bit.ly/36fsQ6y" group-title="Canada",BNN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/752
@@ -434,9 +434,9 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="CANADA" tvg-id="" tvg-name="",Assemblee Nationale 
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="CANADA FRANCAIS",ici Radio
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1200px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA FRANCAIS",ici Radio
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
-#EXTINF:-1,ICI Télé
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1200px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA FRANCAIS",ici Radio
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20549.pcdn.co/wp-content/uploads/social_seo_logo_home-settings_1200x630.jpg" group-title="CANADA FRANCAIS",CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
