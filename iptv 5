@@ -1,9 +1,78 @@
 #EXTINF:-1 tvg-ID="I392.11705.schedulesdirect.org" tvg-name="NBC (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/200px-NBC_logo.svg.png" group-title="USA",NBC (East)
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2MTnLJe" , NBC ATL
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48052
 #EXTINF:-1 tvg-logo="https://bit.ly/2FjCaub" , ABC 2 WSB
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48251 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/WAGA-TV_logo.png" , FOX 5 ATL
-http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48148              
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48148 
+#EXTINF:-1 tvg-logo="https://bit.ly/2Qm6CKy" , CBS ATL
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48204
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZXWWcs" , STARZ US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/47805             
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZXXBus" ,BRAVO US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48228                   
+#EXTINF:-1 tvg-logo="https://bit.ly/2QPdsHD" ,BBC AMERICA 
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48229             
+#EXTINF:-1 tvg-logo="https://bit.ly/2trsbQS" ,OWN US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48003                        
+#EXTINF:-1 tvg-logo="https://bit.ly/2FmUB0Z" ,TRU TV US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/47960                                               
+#EXTINF:-1 tvg-logo="https://bit.ly/39F8O7y" ,FYI US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8578                     
+#EXTINF:-1 tvg-logo="https://bit.ly/2QnQRTh" ,CW US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8591                          
+#EXTINF:-1 tvg-logo="https://bit.ly/2sDnsvz" ,ION US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/7257                        
+#EXTINF:-1 tvg-logo="https://bit.ly/2QHZRSe" ,EL REY
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8584                     
+#EXTINF:-1 tvg-logo="https://bit.ly/2QMyyq0" ,MY9 TV US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/7156                      
+#EXTINF:-1 tvg-logo="https://bit.ly/37Cywb6" ,TV ONE US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/16854                           
+#EXTINF:-1 tvg-logo="https://bit.ly/36t1aLm" ,SPIKE US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/1092                         
+#EXTINF:-1 tvg-logo="https://bit.ly/39DxoWn" ,AHC US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/7990                          
+#EXTINF:-1 tvg-logo="https://bit.ly/2uegg9m" ,WGN US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/7260                     
+#EXTINF:-1 tvg-logo="https://bit.ly/2uegrS4" ,GRIT US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/7993                       
+#EXTINF:-1 tvg-logo="https://bit.ly/2FkUjb5" ,BET HER US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/27167                          
+#EXTINF:-1 tvg-logo="https://bit.ly/2QLhnoF" ,BET US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/16853
+#EXTINF:-1 tvg-logo="https://bit.ly/37BFJIc" ,SHOWTIME US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48003                                
+#EXTINF:-1 tvg-logo="https://bit.ly/39OumPg" ,SHOWTIME 2 US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/3493                        
+#EXTINF:-1 tvg-logo="https://bit.ly/2QKRJk3" ,A&E US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8608                             
+#EXTINF:-1 tvg-logo="https://bit.ly/37zsiIJ" ,HISTORY US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/895                            
+#EXTINF:-1 tvg-logo="https://bit.ly/35q4fdX" ,USA NETWORK
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/47957                                     
+#EXTINF:-1 tvg-logo="https://bit.ly/39GWN1d" ,ID US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48080                                              
+#EXTINF:-1 tvg-logo="https://bit.ly/39FS9kn" ,NBA TV US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48059                                                   
+#EXTINF:-1 tvg-logo="https://bit.ly/2FkWuLN" ,WWE NETWORK US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/2                             
+#EXTINF:-1 tvg-logo="https://bit.ly/39HYjQL" ,DISCOVERY US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48184             
+#EXTINF:-1 tvg-logo="https://bit.ly/36o4pnj" ,DISCOVERY FAMILY US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48185                    
+#EXTINF:-1 tvg-logo="https://bit.ly/35qFxtO" ,VELOCITY US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8531                             
+#EXTINF:-1 tvg-logo="https://bit.ly/2FhqqbA" ,HBO US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8567                      
+#EXTINF:-1 tvg-logo="https://bit.ly/2ujxdzn" ,HBO 2 US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8566                   
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZS20iq" ,HBO COMEDY US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8565                       
+#EXTINF:-1 tvg-logo="https://bit.ly/2SUcCM8" ,HBO FAMILY
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8564                 
+
 #EXTINF:-1 tvg-ID="I390.11331.schedulesdirect.org" tvg-name="CBS (East)" tvg-logo="http://www.sitcomsonline.com/photos/cbslogo.jpg" group-title="USA",CBS 
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="CANADA" tvg-id="" tvg-name="", CBC News Network 
