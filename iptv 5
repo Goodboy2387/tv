@@ -134,6 +134,8 @@ http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8547
 #EXTINF:-1 tvg-logo="https://bit.ly/2rTwtQw" ,UFC FIGHT PASS US
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/7985                           
 #EXTINF:-1 tvg-logo="https://bit.ly/35pqkt8" ,BOOMERANG US
+#EXTINF:-1 tvg-logo="https://bit.ly/36nOBkI" ,POP HD US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/46991
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/5762                          
 #EXTINF:-1 tvg-ID="I390.11331.schedulesdirect.org" tvg-name="CBS (East)" tvg-logo="http://www.sitcomsonline.com/photos/cbslogo.jpg" group-title="USA",CBS 
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
