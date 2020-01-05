@@ -56,7 +56,7 @@ http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/47957
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48080                                              
 #EXTINF:-1 tvg-logo="https://bit.ly/39FS9kn" ,NBA TV US
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48059                                                   
-#EXTINF:-1 tvg-logo="https://bit.ly/2rUGk8J" ,WWE NETWORK US
+#EXTINF:-1 tvg-logo="https://bit.ly/2FhBANE" ,WWE NETWORK US
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/2                             
 #EXTINF:-1 tvg-logo="https://bit.ly/39HYjQL" ,DISCOVERY US
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48184             
@@ -64,7 +64,7 @@ http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48184
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48185                    
 #EXTINF:-1 tvg-logo="https://bit.ly/35qFxtO" ,VELOCITY US
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8531                             
-#EXTINF:-1 tvg-logo="https://bit.ly/2FhqqbA" ,HBO US
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZSpaVU" ,HBO US
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8567                      
 #EXTINF:-1 tvg-logo="https://bit.ly/2ujxdzn" ,HBO 2 US
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8566                   
@@ -72,7 +72,69 @@ http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8566
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8565                       
 #EXTINF:-1 tvg-logo="https://bit.ly/2SUcCM8" ,HBO FAMILY
 http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8564                 
-
+#EXTINF:-1 tvg-logo="https://bit.ly/35nYkpG" ,HBO ZONE US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8562                        
+#EXTINF:-1 tvg-logo="https://bit.ly/2tzHTt5" ,HBO SIGNATURE US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/46811
+#EXTINF:-1 tvg-logo="https://bit.ly/2SRrXgr" ,VH1 US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8530                           
+#EXTINF:-1 tvg-logo="https://bit.ly/2STUbXS" ,FUSION US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48092                      
+#EXTINF:-1 tvg-logo="https://bit.ly/37HOQr7" ,TNT US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/47965                                 
+#EXTINF:-1 tvg-logo="https://bit.ly/2QmwGVP" ,COMEDY CENTRAL US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/141                           
+#EXTINF:-1 tvg-logo="https://bit.ly/36rqm4T" ,FX US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48091                         
+#EXTINF:-1 tvg-logo="https://bit.ly/37FNn4x" ,FXX US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48089                                 
+#EXTINF:-1 tvg-logo="https://bit.ly/2ucAEro" ,FXM US 
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48090                          
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZWWDyr" ,SYFY US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/47989               
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZPQvIe" ,HALLMARK US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48086                              
+#EXTINF:-1 tvg-logo="https://bit.ly/2uluNAj" ,AMC US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/47912                
+#EXTINF:-1 tvg-logo="https://bit.ly/39BFC17" ,GINX SPORTS US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48089                                   
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZPCUk4" ,TLC US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/47967                            
+#EXTINF:-1 tvg-logo="https://bit.ly/36ovR4l" ,TBS US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/47986                                     
+#EXTINF:-1 tvg-logo="https://bit.ly/2SQCecK" ,BBC EARTH US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/47904               
+#EXTINF:-1 tvg-logo="https://bit.ly/36rrF3T" ,DISNEY CHANNEL US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/48182                      
+#EXTINF:-1 tvg-logo="https://bit.ly/36qYI8n" ,WE TV US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8529                          
+#EXTINF:-1 tvg-logo="https://bit.ly/37ChSYS" ,MSNBC US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8557                          
+#EXTINF:-1 tvg-logo="https://bit.ly/2MXyBOv" ,LIFETIME US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/7259                     
+#EXTINF:-1 tvg-logo="https://bit.ly/2FhOawn" ,EPIX US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8583                             
+#EXTINF:-1 tvg-logo="https://www.pesdish.com/wp-content/uploads/2016/04/epix2.png" ,EPIX 2 US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8582                                 
+#EXTINF:-1 tvg-logo="https://bit.ly/2MVzyXE" ,CINEMAX US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8599                         
+#EXTINF:-1 tvg-logo="https://bit.ly/2FnwbV6" ,CINEMAX MOREMAX US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/5796                             
+#EXTINF:-1 tvg-logo="https://bit.ly/2QrzyB0" ,NESN NETWORK US
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZOsykE" ,LMN US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8558                           
+#EXTINF:-1 tvg-logo="https://bit.ly/36l32WB" ,MSG US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/7253                                
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZOBRB9" ,SUNDANCE TV US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8539                       
+#EXTINF:-1 tvg-logo="https://bit.ly/35qzeqm" ,E! US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/7775                            
+#EXTINF:-1 tvg-logo="https://bit.ly/36rtLRj" ,SEC US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/8547                        
+#EXTINF:-1 tvg-logo="https://bit.ly/2rTwtQw" ,UFC FIGHT PASS US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/7985                           
+#EXTINF:-1 tvg-logo="https://bit.ly/35pqkt8" ,BOOMERANG US
+http://iptv-line.com:7899/WQYjzeSzIb/g5cNLkBQsM/5762                          
 #EXTINF:-1 tvg-ID="I390.11331.schedulesdirect.org" tvg-name="CBS (East)" tvg-logo="http://www.sitcomsonline.com/photos/cbslogo.jpg" group-title="USA",CBS 
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="CANADA" tvg-id="" tvg-name="", CBC News Network 
