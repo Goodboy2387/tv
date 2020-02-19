@@ -187,8 +187,8 @@ http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="702" tvg-logo="https://i.imgur.com/bkikN6d.png" group-title="USA",Apple Sauce Network
 https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,BeBlack Caribbean
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1,NBA
+http://45.92.69.76:8000/play/a05v
 #EXTINF:-1 tvg-id="" tvg-logo="",Victory Television Network 
 http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS Kids (Geo)" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/pbs-kids-jpg_orig.jpg" group-title="USA TV",PBS Kids HD [GEO] 
@@ -215,56 +215,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHDHLS/TCTHDH
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PLpyQsV.png" , TRT World 
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-id="CHCH.ca" tvg-name="CA-CHCH" tvg-logo="http://212.8.253.112/logo/CANADA/CHCH.png" group-title="AM | CANADA",CHCH
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/545
-#EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA-A&E" tvg-logo="http://212.8.253.112/logo/CANADA/A%26E.png" group-title="AM | CANADA",A&E
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/727
-#EXTINF:-1 tvg-id="RDS2.ca" tvg-name="CAF- RDS 2" tvg-logo="http://212.8.253.112/logo/CANADA/RDS2.png" group-title="AM | CANADA FR",RDS 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
-#EXTINF:-1 tvg-id="" tvg-name="CA-CNN" tvg-logo="http://212.8.253.112/logo/CANADA/CNN.png" group-title="AM | CANADA",CNN
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
-#EXTINF:-1 tvg-id="Bravo.ca" tvg-name="CA-BRAVO" tvg-logo="http://212.8.253.112/logo/CANADA/BRAVO.png" group-title="AM | CANADA",BRAVO
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/717
-#EXTINF:-1, tvg-id="164.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HISTORY.png" tvg-name="History Canada East"  group-title="Canada",History 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/669
-#EXTINF:-1 tvg-name="Teletoon HD" tvg-id="I1653.75456.schedulesdirect.org" tvg-logo="https://assets.corusent.com/wp-content/uploads/2015/07/logos_tv_kids_teletoon.png" group-title="Canada",Teletoon
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
-#EXTINF:-1 tvg-id="CMT.ca" tvg-name="CA-CMT CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/CMTCANADA.png" group-title="AM | CANADA",CMT 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
-#EXTINF:-1 tvg-name="Animal Planet CA HD" tvg-id="I525.26823.schedulesdirect.org" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Animal_Planet_original.png" group-title="Canada",Animal Planet 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",Adult Swim
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
-#EXTINF:-1 tvg-id="" tvg-name="CA-AHC" tvg-logo="https://bit.ly/2SLs39p" group-title="AM | CANADA",AHC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
-#EXTINF:-1, tvg-id="415.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/BBCCANADA.png" tvg-name="BBC Canada East"  group-title="Canada",BBC Canada 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
-#EXTINF:-1, tvg-id="10281.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCSPARKCANADA.png" tvg-name="ABC Spark"  group-title="Canada",ABC Spark
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
-#EXTINF:-1, tvg-id="84.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HBO1.png" tvg-name="HBO Canada1"  group-title="Canada",HBO 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
-#EXTINF:-1 tvg-id="fxnow.ca" tvg-name="CA: FX CANADA | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/FX_Canada.png" group-title="CANADA",FX 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
-#EXTINF:-1 tvg-id="66379" tvg-name="FXX East" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/1201.png" group-title="Entertainments",FXX 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
-#EXTINF:-1 tvg-id="" tvg-name="CA-THE WEATHER NETWORK" tvg-logo="http://212.8.253.112/logo/CANADA/THEWEATHERNETWORK.png" group-title="AM | CANADA",THE WEATHER NETWORK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
-#EXTINF:-1 tvg-name="ABC HD" tvg-id="I396.11259.schedulesdirect.org" tvg-logo="http://www.jemome.com/cdn/2014/11/abc-family-logo_121135.png" group-title="United States",ABC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
-#EXTINF:-1 tvg-name="CTV News HD" tvg-id="I501.17615.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CTV_News.svg/1280px-CTV_News.svg.png" group-title="Canada",CTV News
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
-#EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA-CRIME   INVEST" tvg-logo="http://212.8.253.112/logo/CANADA/CRIMEINVEST.png" group-title="AM | CANADA",CRIME INVESTIGATION
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
-#EXTINF:-1 tvg-id="I285.76863.schedulesdirect.org" tvg-name="|CA| Comedy HD" tvg-logo="https://bit.ly/2QC3Y2g" group-title="CAN Channels",Comedy
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
-#EXTINF:-1 tvg-id="CBSSports.ca" tvg-name="CA-CBS EAST" tvg-logo="http://212.8.253.112/logo/CANADA/CBSEAST.png" group-title="AM | CANADA",CBS 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
-#EXTINF:-1 tvg-name="CTV 2 Vancover Island" tvg-id="I256.27190.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/CTV_Two.svg/220px-CTV_Two.svg.png" group-title="Canada",CTV 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/697
-#EXTINF:0,Channel CTV OTTAWA
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/696
-#EXTINF:-1 tvg-id="" tvg-name="CA-CW 11" tvg-logo="http://212.8.253.112/logo/CANADA/CW11.png" group-title="AM | CANADA",CW 11
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/695
+
 #EXTINF:0  tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Charlottetown
@@ -295,146 +246,7 @@ https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
 https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC St John
 https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
-#EXTINF:-1 tvg-logo="http://www.daystar.com/wp-content/uploads/daystar-logo-1.png" group-title="USA/Canada",Daystar TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/694
-#EXTINF:-1 tvg-name="Discovery Channel CA HD" tvg-id="I1602.72638.schedulesdirect.org" tvg-logo="https://mpng.pngfly.com/20181108/bgw/kisspng-discovery-inc-discovery-channel-tlc-television-c-5be4bf7f95b094.6507601615417178876131.jpg" group-title="Canada",Discovery Channel
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
-#EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="CA-DISCOVERY SCIENCE CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/DISCOVERYSCIENCECANADA.png" group-title="AM | CANADA",DISCOVERY SCIENCE 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
-#EXTINF:-1 tvg-name="Disney Channel CA HD" tvg-id="I563.96509.schedulesdirect.org" tvg-logo="https://www.logolynx.com/images/logolynx/77/77ae6ac4f3b67e35905f721fa1d31b27.jpeg" group-title="Canada",Disney Channel
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/691
-#EXTINF:-1 tvg-id="DocumentaryChannel.ca" tvg-name="CA-DOCUMENTARY" tvg-logo="http://212.8.253.112/logo/CANADA/DOCUMENTARY.png" group-title="AM | CANADA",DOCUMENTARY
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/688
-#EXTINF:-1, tvg-id="295.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/E%21CANADA.png" tvg-name="E! Canada"  group-title="Canada",E!
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/687
-#EXTINF:-1 tvg-name="Family HD" tvg-id="I556.11156.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Family_Channel_2011.png" group-title="Canada",Family
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/684
-#EXTINF:-1 tvg-id="FamilyJr.ca" tvg-name="CA-FAMILY JR" tvg-logo="http://212.8.253.112/logo/CANADA/FAMILYJR.png" group-title="AM | CANADA",FAMILY JR
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/683
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="CA-FIGHT NETWORK" tvg-logo="http://212.8.253.112/logo/CANADA/FIGHTNETWORK.png" group-title="AM | CANADA",FIGHT NETWORK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
-#EXTINF:-1 tvg-id="" tvg-name="CA-FOOD NETWORK" tvg-logo="http://212.8.253.112/logo/CANADA/FOODNETWORK.png" group-title="AM | CANADA",FOOD NETWORK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/681
-#EXTINF:-1 tvg-logo="https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg" group-title="CANADA" tvg-id="" tvg-name="", Tele-Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA-FOX EAST" tvg-logo="http://212.8.253.112/logo/CANADA/FOXEAST.png" group-title="AM | CANADA",FOX 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
-#EXTINF:-1, tvg-id="329.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/GSN.png" tvg-name="GSN"  group-title="Canada",GSN
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/676
-#EXTINF:0,Channel GINX ESPORT TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
-#EXTINF:-1 tvg-id="I513.65385.schedulesdirect.org" tvg-name="|CA| GOLF HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/golf.png" group-title="CAN Channels",GOLF
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/673
-#EXTINF:-1 tvg-id="I502.59368.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-
-#EXTINhttp://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671F:0,Channel
- #EXTINF:-1 tvg-name="HGTV CA HD" tvg-id="I1703.70676.schedulesdirect.org" tvg-logo="https://business.bell.ca/web/SHOP/Responsive/content/img/logos/HGTV-1.png" group-title="Canada",HGTV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
-#EXTINF:-1 tvg-id="Historia" tvg-name="CA|FR: HISTORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Hstra.png" group-title="CANADA",HISTORIA
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
-#EXTINF:-1 tvg-id="" tvg-name="CA-ID CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/IDCANADA.png" group-title="AM | CANADA",INVERSTIGATION DISCOVERY 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
-#EXTINF:-1 tvg-id="I322.26768.schedulesdirect.org" tvg-name="|CA| Lifetime HD" tvg-logo="https://bit.ly/2Qby39L" group-title="CAN Channels",Lifetime
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/663
-#EXTINF:-1 tvg-id="" tvg-name="CA-ENCORE 1 EAST" tvg-logo="http://212.8.253.112/logo/CANADA/ENCORE1EAST.png" group-title="AM | CANADA",ENCORE 1 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
-#EXTINF:-1 tvg-id="" tvg-name="CA-ENCORE 2 EAST" tvg-logo="http://212.8.253.112/logo/CANADA/ENCORE1EAST.png" group-title="AM | CANADA",ENCORE 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/685
-#EXTINF:-1 tvg-id="MAX.ca" tvg-name="CAF- MAX" tvg-logo="http://212.8.253.112/logo/CANADA/MAX.png" group-title="AM | CANADA FR",MAX
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/MLBNETWORK.png" tvg-name="MLB NETWORK"  group-title="Canada",MLB NETWORK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/660
-#EXTINF:-1 tvg-id="Moicie.ca" tvg-name="CAF- MOI CIE" tvg-logo="http://212.8.253.112/logo/CANADA/MOICIE.png" group-title="AM | CANADA FR",MOI CIE
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
- #EXTINF:-1 tvg-id="I86.27125.schedulesdirect.org" tvg-name="|CA| MovieTime HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movietime.png" group-title="CAN Channels",MovieTime
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
-#EXTINF:-1 tvg-id="" tvg-name="CA-MTV" tvg-logo="http://212.8.253.112/logo/CANADA/MTV.png" group-title="AM | CANADA",MTV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
-#EXTINF:-1 tvg-name="Much Music HD" tvg-id="I570.10984.schedulesdirect.org" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="Canada",Much Music
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/654
- #EXTINF:-1 tvg-name="Nat Geo CA HD" tvg-id="I524.26882.schedulesdirect.org" tvg-logo="https://mpng.pngfly.com/20180810/avl/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment-and-nati-5b6dcc3b88bbb4.4369305215339223635601.jpg",Nat Geo 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA: NBA TV | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/NBA_TV.png" group-title="CANADA",NBA TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
-#EXTINF:-1 tvg-id="" tvg-name="CA-NBC EAST" tvg-logo="http://212.8.253.112/logo/CANADA/NBCWEST.png" group-title="AM | CANADA",NBC 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/651
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2pCmTWZ.png" group-title="",NTV 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
-#EXTINF:-1 tvg-id="" tvg-name="CA-VIP OLN HD" tvg-logo="http://212.8.253.112/logo/CANADA/OLN.png" group-title="AM | CANADA",OLN 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
-#EXTINF:-1 tvg-name="OWN CA HD" tvg-id="I526.20714.schedulesdirect.org" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/Oprah_Winfrey_Network_2010b.png" group-title="Canada",OWN CA HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
-#EXTINF:-1 tvg-id="RDSInfo.ca" tvg-name="CAF- RDS" tvg-logo="http://212.8.253.112/logo/CANADA/RDS.png" group-title="AM | CANADA FR",RDS
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
-#EXTINF:-1 tvg-id="RDSInfo.ca" tvg-name="CAF- RDS INFO" tvg-logo="http://212.8.253.112/logo/CANADA/RDSINFO.png" group-title="AM | CANADA FR",RDS INFO
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
-#EXTINF:-1 tvg-id="RDS2.ca" tvg-name="CAF- RDS 2" tvg-logo="http://212.8.253.112/logo/CANADA/RDS2.png" group-title="AM | CANADA FR",RDS 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
-#EXTINF:-1 tvg-id="" tvg-name="CA-SPIKE TV / PARAMOUNT CANADA" tvg-logo="http://212.8.253.112/logo/CANADA/SPIKETVPARAMOUNTCANADA.png" group-title="AM | CANADA",SPIKE 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/637
-#EXTINF:-1 tvg-id="" tvg-name="CA-SPORTSNET EAST" tvg-logo="http://212.8.253.112/logo/CANADA/SPORTSNETEAST.png" group-title="AM | CANADA",SPORTSNET EAST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
-#EXTINF:-1 tvg-id="" tvg-name="CA-SPORTSNET PACIFIC" tvg-logo="http://212.8.253.112/logo/CANADA/SPORTSNETPACIFIC.png" group-title="AM | CANADA",SPORTSNET PACIFIC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/635
-#EXTINF:-1 tvg-id="SuperSportKosova1.al" tvg-name="CAF- SUPER ECRAN 1" tvg-logo="http://212.8.253.112/logo/CANADA/SUPERECRAN1.png" group-title="AM | CANADA FR",SUPER ECRAN 1
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
-#EXTINF:-1 tvg-id="SuperEcran2.ca" tvg-name="CAF- SUPER ECRAN 2" tvg-logo="http://212.8.253.112/logo/CANADA/SUPERECRAN1.png" group-title="AM | CANADA FR",SUPER ECRAN 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
-#EXTINF:-1 tvg-id="SuperEcran3.ca" tvg-name="CAF- SUPER ECRAN 3" tvg-logo="http://212.8.253.112/logo/CANADA/SUPERECRAN%203.png" group-title="AM | CANADA FR",SUPER ECRAN 3
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
-#EXTINF:-1 tvg-logo="https://www.treehousevitamins.com/wp-content/themes/Treehouse/images/logo.png" tvg-id="" tvg-name="" group-title="4-CANADA",Treehouse
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1, tvg-id="133.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCEAST.png" tvg-name="ABC (WCVB) Boston MA"  group-title="Canada",ABC (WCVB) Boston MA
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
-#EXTINF:-1 tvg-name="TLC CA HD" tvg-id="I521.60734.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Canada",TLC CA HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/628
-#EXTINF:-1 tvg-id="TV5.ca" tvg-name="CAF- TV5 QUEBEC" tvg-logo="http://212.8.253.112/logo/CANADA/TV5QUEBEC.png" group-title="AM | CANADA FR",TV5 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="CAF- TVA GATINEAU 4K" tvg-logo="http://212.8.253.112/logo/CANADA/TVAGATINEAU.png" group-title="AM | CANADA FR",TVA 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
-#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CAF- TVA SPORTS" tvg-logo="http://212.8.253.112/logo/CANADA/TVASPORTS.png" group-title="AM | CANADA FR",TVA SPORTS
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
-#EXTINF:-1 tvg-id="VRAK.ca" tvg-name="CAF- VRAK TV" tvg-logo="http://212.8.253.112/logo/CANADA/VRAKTV.png" group-title="AM | CANADA FR",VRAK 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/619
-#EXTINF:-1 tvg-id="WNetwork.ca" tvg-name="CA-W NETWORK" tvg-logo="http://212.8.253.112/logo/CANADA/WNETWORK.png" group-title="AM | CANADA",W NETWORK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/618
-#EXTINF:-1 tvg-id="" tvg-name="CA-WGN" tvg-logo="http://212.8.253.112/logo/CANADA/WGN.png" group-title="AM | CANADA",WGN
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/616
-#EXTINF:-1 tvg-name="YES Network HD" tvg-id="I631.46275.schedulesdirect.org" tvg-logo="https://extremecouponingmom.ca/wp-content/uploads/2014/08/YESTVlogo.jpg" group-title="Sports",YES Network HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/615
-#EXTINF:-1 tvg-name="BNN HD" tvg-id="I504.20709.schedulesdirect.org" tvg-logo="https://bit.ly/36fsQ6y" group-title="Canada",BNN
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/752
-#EXTINF:0,Channel Hunt Channel Ca
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/745
-#EXTINF:0,Channel LEAFS TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/751
-#EXTINF:-1 tvg-name="Space HD" tvg-id="I627.17609.schedulesdirect.org" tvg-logo="https://vignette.wikia.nocookie.net/expanse/images/3/34/SpaceCanada_logo.png/revision/latest?cb=20181002182534" group-title="Canada",Space HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/750
-#EXTINF:-1 tvg-id="" tvg-name="CA-TELE LATINO" tvg-logo="http://212.8.253.112/logo/CANADA/TELELATINO.png" group-title="AM | CANADA",TELE LATINO
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/749
-#EXTINF:-1 tvg-id="Vision.ca" tvg-name="CA-VISION" tvg-logo="http://212.8.253.112/logo/CANADA/VISION.png" group-title="AM | CANADA",VISION
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
-#EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA-YTV" tvg-logo="http://212.8.253.112/logo/CANADA/YTV.png" group-title="AM | CANADA",YTV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
-#EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA-AMC" tvg-logo="http://212.8.253.112/logo/CANADA/AMC.png" group-title="AM | CANADA",AMC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
-#EXTINF:-1 tvg-id="MSNBC.ca" tvg-name="CA-CNBC" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/CNBC.png" group-title="AM | CANADA",CNBC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/571
-#EXTINF:-1 tvg-name="Global BC" tvg-id="I1152.60121.schedulesdirect.org" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/Canada_1282/Source/3339/globalbctv_400x400.png" group-title="Canada",Global BC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/578
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA-TSN 1" tvg-logo="http://212.8.253.112/logo/CANADA/TSN1.png" group-title="AM | CANADA",TSN 1
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/554
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA-TSN 2" tvg-logo="http://212.8.253.112/logo/CANADA/TSN2.png" group-title="AM | CANADA",TSN 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA-TSN 3" tvg-logo="http://212.8.253.112/logo/CANADA/TSN3.png" group-title="AM | CANADA",TSN 3
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA-TSN 4" tvg-logo="http://212.8.253.112/logo/CANADA/TSN4.png" group-title="AM | CANADA",TSN 4
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA-TSN 5" tvg-logo="http://212.8.253.112/logo/CANADA/TSN5.png" group-title="AM | CANADA",TSN 5
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="CANADA" tvg-id="" tvg-name="",Assemblee Nationale 
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1200px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA FRANCAIS",ici Radio
