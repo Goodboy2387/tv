@@ -250,9 +250,9 @@ https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2PZnoyv" group-title="CANADA" tvg-id="" tvg-name="",NTV
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3aFqZd6" group-title="CANADA" tvg-id="" tvg-name="",TSC
+#EXTINF:-0 tvg-id="" tvg-logo="https://bit.ly/3aFqZd6" group-title="CANADA" tvg-id="" tvg-name="",TSC
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 
+#EXTINF:-0 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="CANADA" tvg-id="" tvg-name="",Assemblee Nationale 
