@@ -105,15 +105,15 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas Collection",LIVE Sony Movies Christmas 
 http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,CBS
+#EXTINF:-1, tvg-logo="https://bit.ly/2IOgTKQ" group-title="USA LOCAL" tvg-id="" tvg-name="",CBS 
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2UaHM13" group-title="USA LOCAL" tvg-id="" tvg-name="",Starz east
 http://tvpremiumhd.club/lista-gratuita/151514/on/live.php?id=23.237.122.154:2999/live/Bud$Tv2801/Web$$20/652.ts                
-#EXTINF:0,CW
+#EXTINF:0, tvg-logo="https://bit.ly/2TT6AM6" group-title="USA LOCAL" tvg-id="" tvg-name="",CW
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:0,VSiN
+#EXTINF:0, tvg-logo="https://bit.ly/2U64SG3" group-title="USA LOCAL" tvg-id="" tvg-name="",VSIN
 https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
-#EXTINF:0, Adult Swim williams stream USA
+#EXTINF:0, tvg-logo="https://bit.ly/39UgmD5" group-title="USA LOCAL" tvg-id="" tvg-name="",ADULT SWIM
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:0, BBC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" , France24 
