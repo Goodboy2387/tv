@@ -209,7 +209,8 @@ http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828
 #EXTINF:-1 tvg-id="USTV" tvg-name="Cheddar Big News" tvg-logo="http://1hdlxe1oe0ll1eghud24le5v.wpengine.netdna-cdn.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-17-at-5.38.40-PM-300x272.png" group-title="USA TV",Cheddar Big News HD {Main}
 https://live.chdrstatic.com/cbn/primary/1.m3u8
-
+#EXTINF:-1 tvg-id="https://bit.ly/39QD2UF"  group-title="",TSN
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="USTV" tvg-name="TCT.us" tvg-logo="https://tr.live-tv-channels.net/pt-data/uploads/logo/us-tct-la-fuente.jpg" group-title="Christian TV",TCT 
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHDHLS/TCTHDHLS_Live_2200.m3u8
 #EXTINF:-1 tvg-id="USTV" tvg-name="TCT.us" tvg-logo="https://i.pinimg.com/736x/df/d1/94/dfd194a929de3f2eb7be4f1d21e1c7f0.jpg" group-title="Christian TV",TCT Kids 
