@@ -259,8 +259,8 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
 #EXTINF:-0 tvg-id="" tvg-logo="https://bit.ly/393V1pu" group-title="CANADA" tvg-id="" tvg-name="",AHC
 https://bit.ly/2JbBf0F
-
-
+#EXTINF:-0 tvg-id="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="CANADA" tvg-id="" tvg-name="",TSN ONE
+https://bit.ly/3aaoJe0
 
 
 
