@@ -259,11 +259,18 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
 #EXTINF:-0 tvg-id="" tvg-logo="https://bit.ly/393V1pu" group-title="CANADA" tvg-id="" tvg-name="",AHC
 https://bit.ly/2JbBf0F
-#EXTINF:-0 tvg-id="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="CANADA" tvg-id="" tvg-name="",TSN ONE
-https://bit.ly/3aaoJe0
-
-
-
+#EXTINF:-0 tvg-id="" tvg-logo="https://bit.ly/3n3ywZ3" group-title="CANADA" tvg-id="" tvg-name="",InsightTV
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-logo="https://bit.ly/3pvRzN3" group-title="CANADA" tvg-id="" tvg-name="",Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-logo="https://bit.ly/2MeMZo9" group-title="CANADA" tvg-id="" tvg-name="",FuelTv
+https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-logo="https://bit.ly/2WTa5m8" group-title="CANADA" tvg-id="" tvg-name="",BeIN SPORTS XTRA
+https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/38EdtHf" group-title="CANADA" tvg-id="" tvg-name="",Global Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3rAzqQc" group-title="CANADA" tvg-id="" tvg-name="",Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="CANADA" tvg-id="" tvg-name="",Assemblee Nationale 
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1200px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA FRANCAIS",ici Radio
